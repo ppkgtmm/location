@@ -1,0 +1,3475 @@
+name,admin,fips
+Entre Ríos,Argentina,AR08
+Paysandú,Uruguay,UY11
+Kalimantan Timur,Indonesia,ID14
+Sabah,Malaysia,MY16
+La Paz,Bolivia,BL04
+Oruro,Bolivia,BL05
+Tarapacá,Chile,CI13
+Potosí,Bolivia,BL07
+Antofagasta,Chile,CI03
+Tacna,Peru,PE23
+Salta,Argentina,AR17
+Jujuy,Argentina,AR10
+Larnaca,Cyprus,CY03
+Ladakh,India,IN42
+Xinjiang,China,CH13
+Xizang,China,CH14
+HaDarom,Israel,IS01
+HaZafon,Israel,IS03
+Haifa,Israel,IS04
+HaMerkaz,Israel,IS02
+An Nabatiyah,Lebanon,LE07
+South Lebanon,Lebanon,LE06
+"Southern Nations, Nationalities and Peoples",Ethiopia,ET54
+Eastern Equatoria,S. Sudan,OD02
+Somali,Ethiopia,ET52
+Nugaal,Somalia,SO18
+Mudug,Somalia,SO10
+Galguduud,Somalia,SO05
+Hiiraan,Somalia,SO07
+Bakool,Somalia,SO01
+Gedo,Somalia,SO06
+Rift Valley,Kenya,KE08
+Mbeya,United Republic of Tanzania,TZ09
+Njombe,United Republic of Tanzania,TZ30
+Ruvuma,United Republic of Tanzania,TZ14
+Rumphi,Malawi,MI21
+Nkhata Bay,Malawi,MI17
+Arunachal Pradesh,India,IN30
+Bari,Somalia,SO03
+Guyane française,France,FG01
+Sipaliwini,Suriname,NS18
+Mahaica-Berbice,Guyana,GY15
+Gangwon,South Korea,KS06
+Kangwŏn-do,North Korea,KN09
+Gyeonggi,South Korea,KS13
+Hwanghae-bukto,North Korea,KN07
+Guelmim - Es-Semara,Morocco,MO03
+Laâyoune - Boujdour - Sakia El Hamra,Morocco,MO59
+Oued el Dahab,Morocco,WI00
+Alajuela,Costa Rica,CS01
+Likouala,Republic of the Congo,CF06
+Équateur,Democratic Republic of the Congo,CG02
+Cuvette,Republic of the Congo,CF13
+Plateaux,Republic of the Congo,CF08
+Bandundu,Democratic Republic of the Congo,CG01
+Pool,Republic of the Congo,CF11
+Brazzaville,Republic of the Congo,CF12
+Kinshasa City,Democratic Republic of the Congo,CG06
+Bas-Congo,Democratic Republic of the Congo,CG08
+Bouenza,Republic of the Congo,CF01
+Niari,Republic of the Congo,CF07
+Tashi Yangtse,Bhutan,BT24
+Lhuntshi,Bhutan,BT11
+Bumthang,Bhutan,BT05
+Chernihiv,Ukraine,UP02
+Gomel,Belarus,BO02
+Volyn,Ukraine,UP24
+Brest,Belarus,BO01
+Rivne,Ukraine,UP19
+Zhytomyr,Ukraine,UP27
+Kiev,Ukraine,UP13
+Karas,Namibia,WA31
+Northern Cape,South Africa,SF08
+Beqaa,Lebanon,LE08
+North Lebanon,Lebanon,LE09
+Homs (Hims),Syria,SY11
+Tartus,Syria,SY14
+Rif Dimashq,Syria,SY08
+Fujayrah,United Arab Emirates,AE04
+Musandam,Oman,MU07
+Sharjah,United Arab Emirates,AE06
+Ras Al Khaymah,United Arab Emirates,AE05
+Likoma,Malawi,MI27
+Ferghana,Uzbekistan,UZ03
+East Kazakhstan,Kazakhstan,KZ15
+Almaty,Kazakhstan,KZ01
+Leninabad,Tajikistan,TI03
+Vitebsk,Belarus,BO07
+Utenos,Lithuania,LH64
+Vilniaus,Lithuania,LH65
+Grodno,Belarus,BO03
+Alytaus,Lithuania,LH56
+Rio Grande do Sul,Brazil,BR23
+Artigas,Uruguay,UY01
+Dornod,Mongolia,MG06
+Inner Mongol,China,CH20
+Bayan-Ölgiy,Mongolia,MG03
+Hovd,Mongolia,MG12
+Sühbaatar,Mongolia,MG17
+Dornogovi,Mongolia,MG07
+Govi-Altay,Mongolia,MG10
+Gansu,China,CH15
+Bayanhongor,Mongolia,MG02
+Ömnögovi,Mongolia,MG14
+Gorno-Altay,Russia,RS03
+Sachsen,Germany,GM13
+Liberecký,Czech Republic,EZ83
+Karlovarský,Czech Republic,EZ81
+Bayern,Germany,GM02
+Jihočeský,Czech Republic,EZ79
+Viljandi,Estonia,EN20
+Rujienas,Latvia,LGB8
+Mazsalacas,Latvia,LG96
+Pärnu,Estonia,EN11
+Alojas,Latvia,LG39
+Valga,Estonia,EN19
+Nauksenu,Latvia,LG97
+Salacgrivas,Latvia,LGC2
+Võru,Estonia,EN21
+Apes,Latvia,LG43
+Valkas,Latvia,LGD8
+Aluksne,Latvia,LG41
+Pskov,Russia,RS60
+Vilakas,Latvia,LGE7
+Baltinavas,Latvia,LG47
+Karsavas,Latvia,LG78
+Ciblas,Latvia,LG56
+Ludzas,Latvia,LG92
+Zilupes,Latvia,LGE9
+Panevezio,Lithuania,LH60
+Neretas,Latvia,LG98
+Viesites,Latvia,LGE6
+Vecumnieku,Latvia,LGE4
+Telšiai,Lithuania,LH63
+Saldus,Latvia,LGC4
+Klaipedos,Lithuania,LH58
+Rucavas,Latvia,LGB6
+Priekules,Latvia,LGA8
+Vainodes,Latvia,LGD7
+Šiauliai,Lithuania,LH61
+Auces,Latvia,LG44
+Bauska,Latvia,LG49
+Tervetes,Latvia,LGD5
+Rundales,Latvia,LGB9
+Aknistes,Latvia,LG38
+Ilukstes,Latvia,LG69
+Troms,Norway,NO18
+Norrbotten,Sweden,SW14
+Nordland,Norway,NO09
+Västerbotten,Sweden,SW23
+Jämtland,Sweden,SW07
+Nord-Trøndelag,Norway,NO10
+Sør-Trøndelag,Norway,NO16
+Hedmark,Norway,NO06
+Dalarna,Sweden,SW10
+Värmland,Sweden,SW22
+Akershus,Norway,NO01
+Østfold,Norway,NO13
+Finnmark,Norway,NO05
+Kon Tum,Vietnam,VM55
+Rôtânôkiri,Cambodia,CB23
+Đắk Nông,Vietnam,VM91
+Môndól Kiri,Cambodia,CB10
+Đắk Lắk,Vietnam,VM88
+Gia Lai,Vietnam,VM49
+Bình Phước,Vietnam,VM76
+Krâchéh,Cambodia,CB09
+Tây Ninh,Vietnam,VM33
+Kâmpóng Cham,Cambodia,CB02
+Svay Rieng,Cambodia,CB18
+Prey Vêng,Cambodia,CB14
+Long An,Vietnam,VM24
+Ðong Tháp,Vietnam,VM09
+An Giang,Vietnam,VM01
+Kândal,Cambodia,CB07
+Takêv,Cambodia,CB19
+Kiên Giang,Vietnam,VM21
+Kâmpôt,Cambodia,CB21
+Rheinland-Pfalz,Germany,GM08
+Diekirch,Luxembourg,LU01
+Grevenmacher,Luxembourg,LU02
+Saarland,Germany,GM09
+Luxembourg,Luxembourg,LU03
+Krasnodar,Russia,RS38
+Abkhazia,Georgia,GG02
+Karachay-Cherkess,Russia,RS27
+Kabardin-Balkar,Russia,RS22
+Samegrelo-Zemo Svaneti,Georgia,GG71
+North Ossetia,Russia,RS68
+Shida Kartli,Georgia,GG73
+Racha-Lechkhumi-Kvemo Svaneti,Georgia,GG70
+Ingush,Russia,RS19
+Mtskheta-Mtianeti,Georgia,GG69
+Chechnya,Russia,RS12
+Kakheti,Georgia,GG67
+Dagestan,Russia,RS17
+Struga,Macedonia,MKE6
+Dibër,Albania,AL41
+Centar župa,Macedonia,MK18
+Debar,Macedonia,MK21
+Mavrovo and Rostusa,Macedonia,MK64
+Gostivar,Macedonia,MK34
+Korçë,Albania,AL46
+Elbasan,Albania,AL43
+Vevčani,Macedonia,MK99
+Ohrid,Macedonia,MK74
+Resen,Macedonia,MK86
+Qazax,Azerbaijan,AJ40
+Ardahan,Turkey,TU86
+Samtskhe-Javakheti,Georgia,GG72
+Artvin,Turkey,TU08
+Ajaria,Georgia,GG04
+Tanger - Tétouan,Morocco,MO57
+Phôngsali,Laos,LA18
+Yunnan,China,CH29
+Oudômxai,Laos,LA07
+Louang Namtha,Laos,LA16
+Ysyk-Köl,Kyrgyzstan,KG07
+Naryn,Kyrgyzstan,KG04
+Osh,Kyrgyzstan,KG08
+Tavush,Armenia,AM09
+Kvemo Kartli,Georgia,GG68
+Lori,Armenia,AM06
+Shirak,Armenia,AM07
+Zhambyl,Kazakhstan,KZ17
+Talas,Kyrgyzstan,KG06
+South Kazakhstan,Kazakhstan,KZ10
+Pomeroon-Supenaam,Guyana,GY16
+Roraima,Brazil,BR25
+Potaro-Siparuni,Guyana,GY17
+Upper Demerara-Berbice,Guyana,GY18
+Pará,Brazil,BR16
+Schleswig-Holstein,Germany,GM10
+Madre de Dios,Peru,PE17
+Acre,Brazil,BR01
+Ghadamis,Libya,LY56
+Tataouine,Tunisia,TS34
+Médenine,Tunisia,TS28
+An Nuqat al Khams,Libya,LY67
+Ağstafa,Azerbaijan,AJ05
+Tovuz,Azerbaijan,AJ58
+Gədəbəy,Azerbaijan,AJ19
+Gegharkunik,Armenia,AM04
+Daşkəsən,Azerbaijan,AJ16
+Kəlbəcər,Azerbaijan,AJ26
+Syunik,Armenia,AM08
+Qubadli,Azerbaijan,AJ43
+Zəngilan,Azerbaijan,AJ69
+Ararat,Armenia,AM02
+Sədərək,Azerbaijan,AJ77
+Kangarli,Azerbaijan,AJ74
+Babək,Azerbaijan,AJ72
+Şahbuz,Azerbaijan,AJ78
+Culfa,Azerbaijan,AJ73
+Ordubad,Azerbaijan,AJ76
+Satu Mare,Romania,RO32
+Szabolcs-Szatmár-Bereg,Hungary,HU18
+Arad,Romania,RO02
+Békés,Hungary,HU03
+Bihor,Romania,RO05
+Hajdú-Bihar,Hungary,HU10
+Csongrád,Hungary,HU06
+Timis,Romania,RO36
+Jalal-Abad,Kyrgyzstan,KG03
+Namangan,Uzbekistan,UZ06
+Andijon,Uzbekistan,UZ01
+Batken,Kyrgyzstan,KG09
+Žilinský,Slovakia,LO08
+Silesian,Poland,PL83
+Lesser Poland,Poland,PL77
+Prešov,Slovakia,LO05
+Subcarpathian,Poland,PL80
+Donegal,Ireland,EI06
+Derry,United Kingdom,UK70
+Strabane,United Kingdom,UK77
+Fermanagh,United Kingdom,UK66
+Leitrim,Ireland,EI14
+Cavan,Ireland,EI02
+Dungannon,United Kingdom,UK65
+Armagh,United Kingdom,UK54
+Newry and Mourne,United Kingdom,UK73
+Louth,Ireland,EI19
+Lower Silesian,Poland,PL72
+Královéhradecký,Czech Republic,EZ82
+Opole,Poland,PL79
+Moravskoslezský,Czech Republic,EZ85
+Tadzhikistan Territories,Tajikistan,TI05
+Gorno-Badakhshan,Tajikistan,TI01
+Dytiki Makedonia,Greece,GR08
+Ipeiros,Greece,GR17
+Gjirokastër,Albania,AL45
+Vlorë,Albania,AL51
+Muchinga,Zambia,ZA10
+Mzimba,Malawi,MI15
+Eastern,Zambia,ZA03
+Kasungu,Malawi,MI09
+Mchinji,Malawi,MI13
+Transcarpathia,Ukraine,UP25
+Košický,Slovakia,LO03
+Northern,Sierra Leone,SL02
+Faranah,Guinea,GV09
+Kindia,Guinea,GV16
+Mamou,Guinea,GV23
+Dabola,Guinea,GV05
+Forécariah,Guinea,GV10
+Guéckédou,Guinea,GV13
+Eastern,Sierra Leone,SL01
+Grand Cape Mount,Liberia,LI12
+Southern,Sierra Leone,SL03
+Gbapolu,Liberia,LI21
+Lofa,Liberia,LI20
+Vakaga,Central African Republic,CT14
+Central Darfur,Sudan,SU61
+Haute-Kotto,Central African Republic,CT03
+Western Bahr el Ghazal,S. Sudan,OD09
+Haut-Mbomou,Central African Republic,CT05
+Western Equatoria,S. Sudan,OD10
+Orientale,Democratic Republic of the Congo,CG09
+Central Equatoria,S. Sudan,OD01
+Ali Sabieh,Djibouti,DJ01
+Dikhil,Djibouti,DJ06
+Afar,Ethiopia,ET45
+Tadjourah,Djibouti,DJ05
+Sud-Kivu,Democratic Republic of the Congo,CG12
+Kigoma,United Republic of Tanzania,TZ05
+Katanga,Democratic Republic of the Congo,CG05
+Katavi,United Republic of Tanzania,TZ29
+Rukwa,United Republic of Tanzania,TZ24
+Obock,Djibouti,DJ04
+Debubawi Keyih Bahri,Eritrea,ER03
+Niederösterreich,Austria,AU03
+Oberösterreich,Austria,AU04
+Dihok,Iraq,IZ08
+Sirnak,Turkey,TU80
+Hakkari,Turkey,TU70
+Arbil,Iraq,IZ11
+Gyor-Moson-Sopron,Hungary,HU09
+Burgenland,Austria,AU01
+Sopron,Hungary,HU34
+Vas,Hungary,HU22
+Aoste,Italy,IT19
+Valais,Switzerland,SZ22
+Ticino,Switzerland,SZ20
+Graubünden,Switzerland,SZ09
+Vorarlberg,Austria,AU08
+Tirol,Austria,AU07
+Iğdir,Turkey,TU88
+Agri,Turkey,TU04
+Van,Turkey,TU65
+Marijampoles,Lithuania,LH59
+Podlachian,Poland,PL81
+Warmian-Masurian,Poland,PL85
+Northern,Zambia,ZA05
+Groningen,Netherlands,NL04
+Niedersachsen,Germany,GM06
+Drenthe,Netherlands,NL01
+Overijssel,Netherlands,NL15
+Nordrhein-Westfalen,Germany,GM07
+Gelderland,Netherlands,NL03
+Limburg,Netherlands,NL05
+Triesen,Liechtenstein,LS09
+Schaan,Liechtenstein,LS07
+Triesenberg,Liechtenstein,LS10
+Balzers,Liechtenstein,LS01
+Planken,Liechtenstein,LS05
+Eschen,Liechtenstein,LS02
+Mauren,Liechtenstein,LS04
+Schellenberg,Liechtenstein,LS08
+Ruggell,Liechtenstein,LS06
+Denguélé,Ivory Coast,IV23
+Kankan,Guinea,GV32
+Mandiana,Guinea,GV37
+Beyla,Guinea,GV01
+Bafing,Ivory Coast,IV26
+Dix-Huit Montagnes,Ivory Coast,IV36
+Lola,Guinea,GV36
+Murmansk,Russia,RS49
+Karelia,Russia,RS28
+Leningrad,Russia,RS42
+Al Batnah North,Oman,MU11
+Dubay,United Arab Emirates,AE03
+Abu Dhabi,United Arab Emirates,AE01
+Balakən,Azerbaijan,AJ10
+Zaqatala,Azerbaijan,AJ70
+Xaçmaz,Azerbaijan,AJ60
+Qusar,Azerbaijan,AJ44
+Oğuz,Azerbaijan,AJ37
+Şəki,Azerbaijan,AJ47
+Qax,Azerbaijan,AJ39
+Qəbələ,Azerbaijan,AJ38
+Amapá,Brazil,BR03
+Samux,Azerbaijan,AJ52
+Bács-Kiskun,Hungary,HU01
+Kayes,Mali,ML03
+Koundara,Guinea,GV18
+Mali,Guinea,GV22
+Kebbi,Nigeria,NI40
+Alibori,Benin,BN07
+Niger,Nigeria,NI31
+Borgou,Benin,BN10
+Kwara,Nigeria,NI30
+Ogun,Nigeria,NI16
+Plateau,Benin,BN17
+Collines,Benin,BN11
+Oyo,Nigeria,NI32
+Lagos,Nigeria,NI05
+Ouémé,Benin,BN16
+Cabinda,Angola,AO03
+Kouilou,Republic of the Congo,CF04
+Zala,Hungary,HU24
+Medimurska,Croatia,HR09
+Somogy,Hungary,HU17
+Viroviticko-Podravska,Croatia,HR17
+Koprivničko-Križevačka,Croatia,HR06
+Baranya,Hungary,HU02
+Piran,Slovenia,SIJ9
+Istarska,Croatia,HR04
+Moravske Toplice,Slovenia,SI78
+Šalovci,Slovenia,SI33
+Gornji Petrovci,Slovenia,SI31
+Kuzma,Slovenia,SII2
+Lendava,Slovenia,SI59
+Kobilje,Slovenia,SI47
+Ar Rayyān,Qatar,QA06
+Ash Sharqiyah,Saudi Arabia,SA06
+Matabeleland North,Zimbabwe,ZI06
+Central,Botswana,BC01
+Matabeleland South,Zimbabwe,ZI07
+Northern Areas,Pakistan,PK07
+Burgas,Bulgaria,BU39
+Kirklareli,Turkey,TU39
+Yambol,Bulgaria,BU65
+Edirne,Turkey,TU22
+Haskovo,Bulgaria,BU43
+Otdar Mean Chey,Cambodia,CB27
+Surin,Thailand,TH29
+Preah Vihéar,Cambodia,CB13
+Si Sa Ket,Thailand,TH30
+Ubon Ratchathani,Thailand,TH75
+Siemréab,Cambodia,CB24
+Bântéay Méanchey,Cambodia,CB25
+Sa Kaeo,Thailand,TH80
+Buri Ram,Thailand,TH28
+Kaôh Kong,Cambodia,CB08
+Trat,Thailand,TH49
+Pouthisat,Cambodia,CB12
+Batdâmbâng,Cambodia,CB29
+Krong Pailin,Cambodia,CB30
+Chanthaburi,Thailand,TH48
+Oriental,Morocco,MO54
+Sikkim,India,IN29
+Ha,Bhutan,BT10
+Samchi,Bhutan,BT16
+West Bengal,India,IN28
+Chhukha,Bhutan,BT06
+Geylegphug,Bhutan,BT09
+Assam,India,IN03
+Shemgang,Bhutan,BT18
+Samdrup Jongkhar,Bhutan,BT17
+Tashigang,Bhutan,BT19
+Perlis,Malaysia,MY08
+Satun,Thailand,TH67
+Songkhla,Thailand,TH68
+Kedah,Malaysia,MY02
+Yala,Thailand,TH70
+Kelantan,Malaysia,MY03
+Narathiwat,Thailand,TH31
+Perak,Malaysia,MY07
+Serravalle,San Marino,SM09
+Domagnano,San Marino,SM03
+Faetano,San Marino,SM04
+Montegiardino,San Marino,SM08
+Fiorentino,San Marino,SM05
+Chiesanuova,San Marino,SM02
+San Marino,San Marino,SM07
+Acquaviva,San Marino,SM01
+Borgo Maggiore,San Marino,SM06
+Nord-Est,Haiti,HA10
+Monte Cristi,Dominican Republic,DR15
+Dajabón,Dominican Republic,DR04
+Centre,Haiti,HA07
+La Estrelleta,Dominican Republic,DR11
+Independencia,Dominican Republic,DR
+Ouest,Haiti,HA11
+Sud-Est,Haiti,HA13
+Pedernales,Dominican Republic,DR16
+Lac,Chad,CD07
+Borno,Nigeria,NI27
+Al Jahrah,Kuwait,KU05
+Al-Basrah,Iraq,IZ02
+Al-Muthannia,Iraq,IZ03
+Ahuachapán,El Salvador,ES01
+Jutiapa,Guatemala,GT11
+Santa Ana,El Salvador,ES11
+Chiquimula,Guatemala,GT04
+Nusa Tenggara Timur,Indonesia,ID18
+Ambeno,East Timor,TT12
+Bobonaro,East Timor,TT04
+Cova Lima,East Timor,TT05
+Sarawak,Malaysia,MY11
+Temburong,Brunei,BX03
+Kalimantan Barat,Indonesia,ID11
+Salzburg,Austria,AU05
+Kärnten,Austria,AU02
+Timbuktu,Mali,ML08
+Adrar,Algeria,AG34
+Kranjska Gora,Slovenia,SI53
+Bovec,Slovenia,SI06
+Kobarid,Slovenia,SI46
+Tolmin,Slovenia,SID2
+Kanal,Slovenia,SI44
+Brda,Slovenia,SI07
+Nova Goriška,Slovenia,SI84
+Miren-Kostanjevica,Slovenia,SIJ5
+Komen,Slovenia,SI49
+Sežana,Slovenia,SIB7
+Hrpelje-Kozina,Slovenia,SI35
+Koper,Slovenia,SI50
+Lubombo,Swaziland,WZ02
+Muyinga,Burundi,BY18
+Kirundo,Burundi,BY16
+Ngozi,Burundi,BY19
+Cibitoke,Burundi,BY12
+Kayanza,Burundi,BY15
+Rakhine,Myanmar,BM01
+Chittagong,Bangladesh,BG84
+Chin,Myanmar,BM02
+Navarra,Spain,SP88
+Ordino,Andorra,AN05
+Canillo,Andorra,AN02
+Encamp,Andorra,AN03
+La Massana,Andorra,AN04
+Sant Julià de Lòria,Andorra,AN06
+Escaldes-Engordany,Andorra,AN08
+Badakhshan,Afghanistan,AF01
+Kentriki Makedonia,Greece,GR05
+Novo Selo,Macedonia,MK72
+Valandovo,Macedonia,MKA8
+Strumitsa,Macedonia,MKA1
+Bogdanci,Macedonia,MK08
+Gevgelija,Macedonia,MK33
+Kavadartsi,Macedonia,MK42
+Novaci,Macedonia,MK71
+Prilep,Macedonia,MK82
+Bitola,Macedonia,MK06
+Saraj,Macedonia,MK90
+Jegunovce,Macedonia,MK38
+Tearce,Macedonia,MKA5
+Bogovinje,Macedonia,MK10
+Vrapcište,Macedonia,MKB7
+Pcinjski,Republic of Serbia,MK59
+Kumanovo,Macedonia,MK57
+Vidin,Bulgaria,BU63
+Pernik,Bulgaria,BU49
+Sofia,Bulgaria,BU58
+Kyustendil,Bulgaria,BU45
+Delčevo,Macedonia,MK22
+Makedonska Kamenica,Macedonia,MK52
+Blagoevgrad,Bulgaria,BU38
+Berovo,Macedonia,MK04
+Pehčevo,Macedonia,MK78
+Ntungamo,Uganda,UG59
+Isingiro,Uganda,UGC9
+Kabale,Uganda,UG34
+Kisoro,Uganda,UG43
+Guantánamo,Cuba,CU10
+Uttarakhand,India,IN39
+Ocotepeque,Honduras,HO14
+Chalatenango,El Salvador,ES03
+Lempira,Honduras,HO13
+Cabañas,El Salvador,ES02
+Intibucá,Honduras,HO10
+Morazán,El Salvador,ES08
+La Paz,Honduras,HO12
+San Miguel,El Salvador,ES09
+La Unión,El Salvador,ES07
+Valle,Honduras,HO17
+Atlántico Norte,Nicaragua,NU17
+Olancho,Honduras,HO15
+Gracias a Dios,Honduras,HO09
+Jinotega,Nicaragua,NU07
+El Paraíso,Honduras,HO07
+Nueva Segovia,Nicaragua,NU13
+Chinandega,Nicaragua,NU03
+Choluteca,Honduras,HO02
+Madriz,Nicaragua,NU09
+Esmeraldas,Ecuador,EC09
+Nariño,Colombia,CO20
+Carchi,Ecuador,EC05
+Sucumbios,Ecuador,EC22
+Putumayo,Colombia,CO22
+Nickerie,Suriname,NS14
+Marowijne,Suriname,NS13
+Tarija,Bolivia,BL09
+Boquerón,Paraguay,PA24
+Formosa,Argentina,AR09
+Presidente Hayes,Paraguay,PA16
+Central,Paraguay,PA06
+Asunción,Paraguay,PA22
+Alto Paraná,Paraguay,PA01
+Misiones,Argentina,AR14
+Itapúa,Paraguay,PA11
+Ñeembucú,Paraguay,PA13
+Chaco,Argentina,AR03
+Corrientes,Argentina,AR06
+Misiones,Paraguay,PA12
+Santa Cruz,Bolivia,BL08
+Mato Grosso do Sul,Brazil,BR11
+Alto Paraguay,Paraguay,PA23
+Concepción,Paraguay,PA07
+Amambay,Paraguay,PA02
+Canindeyú,Paraguay,PA19
+Paraná,Brazil,BR18
+Santa Catarina,Brazil,BR26
+Zeeland,Netherlands,NL10
+Noord-Brabant,Netherlands,NL06
+Baden-Württemberg,Germany,GM01
+Schaffhausen,Switzerland,SZ16
+Thurgau,Switzerland,SZ19
+Zürich,Switzerland,SZ25
+Aargau,Switzerland,SZ01
+Basel-Stadt,Switzerland,SZ04
+Basel-Landschaft,Switzerland,SZ03
+Sankt Gallen,Switzerland,SZ15
+Vaduz,Liechtenstein,LS11
+Gamprin,Liechtenstein,LS03
+Solothurn,Switzerland,SZ18
+Jura,Switzerland,SZ26
+Genève,Switzerland,SZ07
+Vaud,Switzerland,SZ23
+Neuchâtel,Switzerland,SZ12
+Évora,Portugal,PO08
+Portalegre,Portugal,PO16
+Rogašovci,Slovenia,SIA6
+Steiermark,Austria,AU06
+Cankova,Slovenia,SI10
+Šentilj,Slovenia,SIB3
+Kungota,Slovenia,SI55
+Maribor,Slovenia,SI70
+Radlje ob Dravi,Slovenia,SIA2
+Muta,Slovenia,SI81
+Dravograd,Slovenia,SI25
+Podvelka,Slovenia,SI93
+Ravne na Koroškem,Slovenia,SIA4
+Mežica,Slovenia,SI74
+Črna na Koroškem,Slovenia,SI16
+Tržič,Slovenia,SID5
+Jesenice,Slovenia,SIH4
+Sisacko-Moslavacka,Croatia,HR14
+Brodsko-Posavska,Croatia,HR02
+Karlovacka,Croatia,HR05
+Zadarska,Croatia,HR19
+Posavina,Bosnia and Herzegovina,BK02
+Splitsko-Dalmatinska,Croatia,HR15
+Bratislavský,Slovakia,LO02
+Trnavský,Slovakia,LO07
+Trenciansky,Slovakia,LO06
+Borsod-Abaúj-Zemplén,Hungary,HU04
+Banskobystrický,Slovakia,LO01
+Nógrád,Hungary,HU14
+Salgótarján,Hungary,HU41
+Nitriansky,Slovakia,LO04
+Komárom-Esztergom,Hungary,HU12
+Pest,Hungary,HU16
+Lubusz,Poland,PL76
+Brandenburg,Germany,GM11
+West Pomeranian,Poland,PL87
+Mecklenburg-Vorpommern,Germany,GM12
+Dolj,Romania,RO17
+Silistra,Bulgaria,BU55
+Calarasi,Romania,RO41
+Ruse,Bulgaria,BU53
+Teleorman,Romania,RO35
+Giurgiu,Romania,RO42
+Constanta,Romania,RO14
+Dobrich,Bulgaria,BU40
+Vratsa,Bulgaria,BU64
+Olt,Romania,RO29
+Pleven,Bulgaria,BU50
+Veliko Tarnovo,Bulgaria,BU62
+Anatoliki Makedonia kai Thraki,Greece,GR01
+Kardzhali,Bulgaria,BU44
+Smolyan,Bulgaria,BU57
+Botosani,Romania,RO07
+Briceni,Moldova,MD63
+Edineţ,Moldova,MD73
+Rîşcani,Moldova,MD84
+Glodeni,Moldova,MD76
+Făleşti,Moldova,MD74
+Iasi,Romania,RO23
+Ungheni,Moldova,MD92
+Nisporeni,Moldova,MD80
+Hîncesti,Moldova,MD77
+Vaslui,Romania,RO38
+Leova,Moldova,MD79
+Cantemir,Moldova,MD65
+Galati,Romania,RO18
+Chernivtsi,Ukraine,UP03
+Suceava,Romania,RO34
+Maramures,Romania,RO25
+Ivano-Frankivs'k,Ukraine,UP06
+Odessa,Ukraine,UP17
+Tulcea,Romania,RO37
+Ocniţa,Moldova,MD81
+Vinnytsya,Ukraine,UP23
+Donduseni,Moldova,MD70
+Bender,Moldova,MD62
+Ștefan Vodă,Moldova,MD88
+Causeni,Moldova,MD67
+Cimişlia,Moldova,MD68
+Basarabeasca,Moldova,MD61
+Lublin,Poland,PL75
+L'viv,Ukraine,UP15
+Dagdas,Latvia,LG57
+Kraslavas,Latvia,LG83
+Kaliningrad,Russia,RS23
+Taurages,Lithuania,LH62
+Smolensk,Russia,RS69
+Mogilev,Belarus,BO06
+Bryansk,Russia,RS10
+Sumy,Ukraine,UP21
+Kursk,Russia,RS41
+Belgorod,Russia,RS09
+Kharkiv,Ukraine,UP07
+Luhans'k,Ukraine,UP14
+Voronezh,Russia,RS86
+Rostov,Russia,RS61
+Donets'k,Ukraine,UP05
+Kars,Turkey,TU84
+Aragatsotn,Armenia,AM01
+Armavir,Armenia,AM03
+Ardebil,Iran,IR32
+İmişli,Azerbaijan,AJ24
+Biləsuvar,Azerbaijan,AJ13
+Cəlilabad,Azerbaijan,AJ15
+Yardımlı,Azerbaijan,AJ66
+Lerik,Azerbaijan,AJ31
+Cəbrayıl,Azerbaijan,AJ14
+Füzuli,Azerbaijan,AJ18
+Beyləqan,Azerbaijan,AJ12
+Astara,Azerbaijan,AJ08
+Gilan,Iran,IR08
+Buryat,Russia,RS11
+Hövsgöl,Mongolia,MG13
+Tuva,Russia,RS79
+Bulgan,Mongolia,MG21
+Uvs,Mongolia,MG19
+Selenge,Mongolia,MG16
+Chita,Russia,RS14
+Dzavhan,Mongolia,MG09
+Hentiy,Mongolia,MG11
+Heilongjiang,China,CH08
+Amur,Russia,RS05
+Yevrey,Russia,RS89
+Khabarovsk,Russia,RS30
+Primor'ye,Russia,RS59
+Jilin,China,CH05
+Hamgyŏng-bukto,North Korea,KN17
+Rasŏn,North Korea,KN18
+Ryanggang,North Korea,KN13
+Chagang-do,North Korea,KN01
+Liaoning,China,CH19
+P'yŏngan-bukto,North Korea,KN11
+Sirdaryo,Uzbekistan,UZ16
+Jizzakh,Uzbekistan,UZ15
+Samarkand,Uzbekistan,UZ10
+Kashkadarya,Uzbekistan,UZ08
+Surkhandarya,Uzbekistan,UZ12
+Khatlon,Tajikistan,TI02
+Takhar,Afghanistan,AF26
+Kunduz,Afghanistan,AF24
+Balkh,Afghanistan,AF30
+Chardzhou,Turkmenistan,TX04
+Jawzjan,Afghanistan,AF31
+Faryab,Afghanistan,AF07
+Mary,Turkmenistan,TX05
+Badghis,Afghanistan,AF02
+Hirat,Afghanistan,AF11
+Ahal,Turkmenistan,TX01
+Hasaka (Al Haksa),Syria,SY01
+Mardin,Turkey,TU72
+Ar Raqqah,Syria,SY04
+Sanliurfa,Turkey,TU63
+Aleppo,Syria,SY09
+Kilis,Turkey,TU90
+Gaziantep,Turkey,TU83
+Hatay,Turkey,TU31
+Idlib,Syria,SY12
+Lattakia,Syria,SY02
+As-Sulaymaniyah,Iraq,IZ05
+Kordestan,Iran,IR16
+Kermanshah,Iran,IR13
+Diyala,Iraq,IZ10
+Ilam,Iran,IR10
+Wasit,Iraq,IZ16
+Maysan,Iraq,IZ14
+Khuzestan,Iran,IR15
+Irbid,Jordan,JO18
+Madaba,Jordan,JO23
+Karak,Jordan,JO09
+Tafilah,Jordan,JO12
+Aqaba,Jordan,JO21
+Balqa,Jordan,JO02
+Karnali,Nepal,NP06
+Mahakali,Nepal,NP09
+Seti,Nepal,NP14
+Dhawalagiri,Nepal,NP03
+Gandaki,Nepal,NP04
+Bagmati,Nepal,NP01
+Janakpur,Nepal,NP05
+Sagarmatha,Nepal,NP13
+Bhojpur,Nepal,NP07
+Mechi,Nepal,NP10
+Kachin,Myanmar,BM04
+Sagaing,Myanmar,BM10
+Nagaland,India,IN20
+Manipur,India,IN17
+Mizoram,India,IN31
+Chiang Rai,Thailand,TH03
+Shan,Myanmar,BM11
+Chiang Mai,Thailand,TH02
+Mae Hong Son,Thailand,TH01
+Kayah,Myanmar,BM06
+Kayin,Myanmar,BM05
+Tak,Thailand,TH08
+Kanchanaburi,Thailand,TH50
+Mon,Myanmar,BM13
+Tanintharyi,Myanmar,BM12
+Prachuap Khiri Khan,Thailand,TH57
+Phetchaburi,Thailand,TH56
+Ratchaburi,Thailand,TH52
+Chumphon,Thailand,TH58
+Ranong,Thailand,TH59
+Bokeo,Laos,LA22
+Xaignabouri,Laos,LA13
+Phayao,Thailand,TH41
+Nan,Thailand,TH04
+Uttaradit,Thailand,TH10
+Phitsanulok,Thailand,TH12
+Loei,Thailand,TH18
+Bueng Kan,Thailand,TH81
+Bolikhamxai,Laos,LA23
+Nong Khai,Thailand,TH17
+Nakhon Phanom,Thailand,TH73
+Khammouan,Laos,LA15
+Savannakhét,Laos,LA20
+Mukdahan,Thailand,TH78
+Amnat Charoen,Thailand,TH77
+Saravan,Laos,LA19
+Champasak,Laos,LA02
+Điện Biên,Vietnam,VM92
+Louangphrabang,Laos,LA17
+Houaphan,Laos,LA03
+Son La,Vietnam,VM32
+Thanh Hóa,Vietnam,VM34
+Nghệ An,Vietnam,VM58
+Xiangkhoang,Laos,LA14
+Ha Tinh,Vietnam,VM52
+Quảng Bình,Vietnam,VM62
+Quảng Trị,Vietnam,VM64
+Thừa Thiên - Huế,Vietnam,VM66
+Xékong,Laos,LA26
+Attapu,Laos,LA01
+KwaZulu-Natal,South Africa,SF02
+Mokhotlong,Lesotho,LT16
+Free State,South Africa,SF03
+Butha-Buthe,Lesotho,LT11
+Leribe,Lesotho,LT12
+Eastern Cape,South Africa,SF05
+Qacha's Nek,Lesotho,LT17
+Thaba-Tseka,Lesotho,LT19
+Berea,Lesotho,LT10
+Maseru,Lesotho,LT14
+Mafeteng,Lesotho,LT13
+Mohale's Hoek,Lesotho,LT15
+Quthing,Lesotho,LT18
+Limpopo,South Africa,SF09
+Kgatleng,Botswana,BC05
+North West,South Africa,SF10
+South-East,Botswana,BC09
+Southern,Botswana,BC10
+Kgalagadi,Botswana,BC04
+Masvingo,Zimbabwe,ZI08
+Lusaka,Zambia,ZA09
+Mashonaland West,Zimbabwe,ZI05
+Mashonaland Central,Zimbabwe,ZI03
+Southern,Zambia,ZA07
+Kémo,Central African Republic,CT06
+Ouaka,Central African Republic,CT11
+Basse-Kotto,Central African Republic,CT02
+Mbomou,Central African Republic,CT08
+Ombella-M'Poko,Central African Republic,CT17
+Bangui,Central African Republic,CT18
+Lobaye,Central African Republic,CT07
+Kagera,United Republic of Tanzania,TZ19
+Cankuzo,Burundi,BY11
+Ruyigi,Burundi,BY21
+Rutana,Burundi,BY20
+Makamba,Burundi,BY17
+Bubanza,Burundi,BY09
+Bujumbura Rural,Burundi,BY25
+Bujumbura Mairie,Burundi,BY24
+Bururi,Burundi,BY10
+Nord-Kivu,Democratic Republic of the Congo,CG11
+Amhara,Ethiopia,ET46
+Gedarif,Sudan,SU39
+Tigray,Ethiopia,ET53
+Benshangul-Gumaz,Ethiopia,ET47
+Blue Nile,Sudan,SU42
+Sennar,Sudan,SU58
+Gambela Peoples,Ethiopia,ET49
+Upper Nile,S. Sudan,OD07
+Jonglei,S. Sudan,OD03
+Sila,Chad,CD25
+Salamat,Chad,CD13
+Bamingui-Bangoran,Central African Republic,CT01
+Moyen-Chari,Chad,CD17
+Ouham,Central African Republic,CT12
+Mandoul,Chad,CD11
+Logone Oriental,Chad,CD09
+Ouham-Pendé,Central African Republic,CT13
+Sud,Cameroon,CM14
+Wouleu-Ntem,Gabon,GB09
+Ogooué-Ivindo,Gabon,GB06
+Haut-Ogooué,Gabon,GB02
+Ogooué-Lolo,Gabon,GB07
+Ngounié,Gabon,GB04
+Lékoumou,Republic of the Congo,CF05
+Nyanga,Gabon,GB05
+Hadjer-Lamis,Chad,CD18
+Extrême-Nord,Cameroon,CM12
+Chari-Baguirmi,Chad,CD15
+Ville de N'Djamena,Chad,CD21
+Mayo-Kebbi Est,Chad,CD16
+Mayo-Kebbi Ouest,Chad,CD20
+Nord,Cameroon,CM13
+Adamawa,Nigeria,NI35
+Adamaoua,Cameroon,CM10
+Taraba,Nigeria,NI43
+Nord-Ouest,Cameroon,CM07
+Sud-Ouest,Cameroon,CM09
+Benue,Nigeria,NI26
+Cross River,Nigeria,NI22
+Sokoto,Nigeria,NI51
+Tahoua,Niger,NG06
+Dosso,Niger,NG03
+Diffa,Niger,NG02
+Maradi,Niger,NG04
+Zamfara,Nigeria,NI57
+Yobe,Nigeria,NI44
+Zinder,Niger,NG07
+Katsina,Nigeria,NI24
+Jigawa,Nigeria,NI39
+Tillabéri,Niger,NG09
+Tapoa,Burkina Faso,UV42
+Atakora,Benin,BN08
+Savanes,Togo,TO26
+Upper East,Ghana,GH10
+Northern,Ghana,GH06
+Kara,Togo,TO23
+Centre,Togo,TO22
+Plateaux,Togo,TO25
+Volta,Ghana,GH08
+Maritime,Togo,TO24
+Zanzan,Ivory Coast,IV11
+Brong Ahafo,Ghana,GH03
+Western,Ghana,GH09
+Sud-Comoé,Ivory Coast,IV63
+Komoé,Burkina Faso,UV55
+Oudalan,Burkina Faso,UV33
+Gao,Mali,ML09
+Soum,Burkina Faso,UV40
+Mopti,Mali,ML04
+Yatenga,Burkina Faso,UV76
+Ségou,Mali,ML05
+Sikasso,Mali,ML06
+Houet,Burkina Faso,UV51
+Nimba,Liberia,LI09
+Grand Gedeh,Liberia,LI19
+Bas-Sassandra,Ivory Coast,IV32
+River Gee,Liberia,LI22
+Maryland,Liberia,LI13
+Macenta,Guinea,GV21
+Yomou,Guinea,GV29
+Bong,Liberia,LI01
+Nzérékoré,Guinea,GV38
+Gaoual,Guinea,GV12
+Gabú,Guinea Bissau,PU10
+Boke,Guinea,GV03
+Tombali,Guinea Bissau,PU07
+Siguiri,Guinea,GV39
+Koulikoro,Mali,ML07
+Koubia,Guinea,GV33
+Tougué,Guinea,GV28
+Dinguiraye,Guinea,GV07
+Stœng Trêng,Cambodia,CB17
+Hà Giang,Vietnam,VM50
+Guangxi,China,CH16
+Cao Bằng,Vietnam,VM05
+Lào Cai,Vietnam,VM90
+Lai Chau,Vietnam,VM89
+Lạng Sơn,Vietnam,VM39
+Quảng Ninh,Vietnam,VM30
+Brunei and Muara,Brunei,BX02
+Tutong,Brunei,BX04
+Belait,Brunei,BX01
+Tripura,India,IN26
+Sylhet,Bangladesh,BG86
+Meghalaya,India,IN18
+Dhaka,Bangladesh,BG81
+Rangpur,Bangladesh,BG87
+Rajshahi,Bangladesh,BG83
+Khulna,Bangladesh,BG82
+Cabo Delgado,Mozambique,MZ01
+Mtwara,United Republic of Tanzania,TZ11
+Niassa,Mozambique,MZ07
+Washington,United States of America,US53
+British Columbia,Canada,CA02
+Idaho,United States of America,US16
+Montana,United States of America,US30
+Alberta,Canada,CA01
+Saskatchewan,Canada,CA11
+North Dakota,United States of America,US38
+Manitoba,Canada,CA03
+Minnesota,United States of America,US27
+Ontario,Canada,CA08
+Michigan,United States of America,US26
+Ohio,United States of America,US39
+Pennsylvania,United States of America,US42
+New York,United States of America,US36
+Québec,Canada,CA10
+Vermont,United States of America,US50
+New Hampshire,United States of America,US33
+Maine,United States of America,US23
+New Brunswick,Canada,CA04
+Arizona,United States of America,US04
+Sonora,Mexico,MX26
+Baja California,Mexico,MX02
+California,United States of America,US06
+New Mexico,United States of America,US35
+Chihuahua,Mexico,MX06
+Texas,United States of America,US48
+Coahuila,Mexico,MX07
+Tamaulipas,Mexico,MX28
+Nuevo León,Mexico,MX19
+Cayo,Belize,BH02
+Petén,Guatemala,GT12
+Orange Walk,Belize,BH04
+Corozal,Belize,BH03
+Quintana Roo,Mexico,MX23
+Campeche,Mexico,MX04
+Tabasco,Mexico,MX27
+Chiapas,Mexico,MX05
+San Marcos,Guatemala,GT17
+Huehuetenango,Guatemala,GT08
+Quiché,Guatemala,GT14
+Alta Verapaz,Guatemala,GT01
+Guanacaste,Costa Rica,CS03
+Rivas,Nicaragua,NU50
+Izabal,Guatemala,GT09
+Cortés,Honduras,HO06
+Santa Bárbara,Honduras,HO16
+Copán,Honduras,HO05
+Zacapa,Guatemala,GT22
+Limón,Costa Rica,CS06
+Puntarenas,Costa Rica,CS07
+Chiriquí,Panama,PM02
+Kuna Yala,Panama,PM09
+Chocó,Colombia,CO11
+Barima-Waini,Guyana,GY10
+Delta Amacuro,Venezuela,VE09
+Bolívar,Venezuela,VE06
+Amazonas,Brazil,BR04
+Guainía,Colombia,CO15
+Vaupés,Colombia,CO30
+Amazonas,Colombia,CO01
+Loreto,Peru,PE16
+Orellana,Ecuador,EC24
+Pastaza,Ecuador,EC17
+Morona Santiago,Ecuador,EC15
+Amazonas,Peru,PE01
+Zamora Chinchipe,Ecuador,EC20
+Cajamarca,Peru,PE06
+Loja,Ecuador,EC12
+Tumbes,Peru,PE24
+El Oro,Ecuador,EC08
+Piura,Peru,PE20
+Amazonas,Venezuela,VE01
+Chuquisaca,Bolivia,BL01
+Ucayali,Peru,PE25
+Pando,Bolivia,BL06
+Rondônia,Brazil,BR24
+El Beni,Bolivia,BL03
+Mato Grosso,Brazil,BR14
+Puno,Peru,PE21
+Catamarca,Argentina,AR02
+Atacama,Chile,CI05
+La Rioja,Argentina,AR12
+San Juan,Argentina,AR18
+Coquimbo,Chile,CI07
+Mendoza,Argentina,AR13
+Región Metropolitana de Santiago,Chile,CI12
+Valparaíso,Chile,CI01
+Libertador General Bernardo O'Higgins,Chile,CI08
+Neuquén,Argentina,AR15
+La Araucanía,Chile,CI04
+Chubut,Argentina,AR04
+Río Negro,Argentina,AR16
+Aisén del General Carlos Ibáñez del Campo,Chile,CI02
+Santa Cruz,Argentina,AR20
+Magallanes y Antártica Chilena,Chile,CI10
+Tierra del Fuego,Argentina,AR23
+Zulia,Venezuela,VE23
+La Guajira,Colombia,CO17
+Cesar,Colombia,CO10
+Norte de Santander,Colombia,CO21
+Táchira,Venezuela,VE20
+Apure,Venezuela,VE03
+Arauca,Colombia,CO03
+Boyacá,Colombia,CO36
+Vichada,Colombia,CO31
+Pomeranian,Poland,PL82
+Papua,Indonesia,ID36
+Sandaun,Papua New Guinea,PP18
+Western,Papua New Guinea,PP06
+Balkan,Turkmenistan,TX02
+Mangghystau,Kazakhstan,KZ09
+Qyzylorda,Kazakhstan,KZ14
+Karakalpakstan,Uzbekistan,UZ09
+Aqtöbe,Kazakhstan,KZ04
+Navoi,Uzbekistan,UZ07
+Tashauz,Turkmenistan,TX03
+Khorezm,Uzbekistan,UZ05
+Bukhoro,Uzbekistan,UZ02
+North Khorasan,Iran,IR43
+Golestan,Iran,IR37
+Razavi Khorasan,Iran,IR42
+South Khorasan,Iran,IR41
+Nimroz,Afghanistan,AF19
+Sistan and Baluchestan,Iran,IR04
+Farah,Afghanistan,AF06
+K.P.,Pakistan,PK03
+F.A.T.A.,Pakistan,PK01
+Kunar,Afghanistan,AF34
+Nuristan,Afghanistan,AF38
+Nangarhar,Afghanistan,AF18
+Khost,Afghanistan,AF37
+Paktya,Afghanistan,AF36
+Baluchistan,Pakistan,PK02
+Paktika,Afghanistan,AF29
+Zabul,Afghanistan,AF28
+Kandahar,Afghanistan,AF23
+Hilmand,Afghanistan,AF10
+North Kazakhstan,Kazakhstan,KZ16
+Tyumen',Russia,RS78
+Kurgan,Russia,RS40
+Omsk,Russia,RS54
+Qostanay,Kazakhstan,KZ13
+Pavlodar,Kazakhstan,KZ08
+Novosibirsk,Russia,RS53
+Chelyabinsk,Russia,RS13
+Altay,Russia,RS04
+Orenburg,Russia,RS55
+West Kazakhstan,Kazakhstan,KZ07
+Saratov,Russia,RS67
+Astrakhan',Russia,RS07
+Volgograd,Russia,RS84
+Atyrau,Kazakhstan,KZ06
+Mafraq,Jordan,JO15
+As Suwayda',Syria,SY05
+Dar`a,Syria,SY06
+Shamal Sina',Egypt,EG27
+Al Hudud ash Shamaliyah,Saudi Arabia,SA15
+Al-Anbar,Iraq,IZ01
+An-Najaf,Iraq,IZ17
+Al Jawf,Saudi Arabia,SA20
+Ma`an,Jordan,JO19
+Amman,Jordan,JO16
+Zarqa,Jordan,JO17
+Al Ahmadi,Kuwait,KU04
+Ninawa,Iraq,IZ15
+Dayr Az Zawr,Syria,SY07
+Hadramawt,Yemen,YM04
+Al Mahrah,Yemen,YM03
+Najran,Saudi Arabia,SA16
+Sa`dah,Yemen,YM15
+`Asir,Saudi Arabia,SA11
+Hajjah,Yemen,YM22
+Jizan,Saudi Arabia,SA17
+Al Jawf,Yemen,YM21
+Al Kufrah,Libya,LY65
+Ennedi,Chad,CD24
+Borkou,Chad,CD23
+Murzuq,Libya,LY73
+Tibesti,Chad,CD26
+Agadez,Niger,NG01
+Tamanghasset,Algeria,AG53
+Tiris Zemmour,Mauritania,MR11
+Kanem,Chad,CD06
+Northern,Sudan,SU43
+Aswan,Egypt,EG16
+Al Bahr al Ahmar,Egypt,EG02
+River Nile,Sudan,SU53
+Eastern,Kenya,KE03
+North-Eastern,Kenya,KE06
+Béchar,Algeria,AG38
+Meknès - Tafilalet,Morocco,MO48
+Souss - Massa - Draâ,Morocco,MO55
+Dakhlet Nouadhibou,Mauritania,MR08
+Adrar,Mauritania,MR07
+Jendouba,Tunisia,TS06
+El Tarf,Algeria,AG44
+Kebili,Tunisia,TS31
+Tozeur,Tunisia,TS35
+Tébessa,Algeria,AG33
+Gafsa,Tunisia,TS30
+Kassérine,Tunisia,TS02
+Le Kef,Tunisia,TS14
+Souk Ahras,Algeria,AG52
+Ouargla,Algeria,AG50
+Kidal,Mali,ML10
+North Darfur,Sudan,SU55
+Western Darfur,Sudan,SU47
+Ouaddaï,Chad,CD12
+Wadi Fira,Chad,CD02
+Al Butnan,Libya,LY79
+Matruh,Egypt,EG22
+Ajdabiya,Libya,LY47
+Al Wadi at Jadid,Egypt,EG13
+Bafatá,Guinea Bissau,PU01
+Oio,Guinea Bissau,PU04
+Cacheu,Guinea Bissau,PU06
+Ziguinchor,Senegal,SG12
+Jubbada Hoose,Somalia,SO09
+Coast,Kenya,KE02
+Mara,United Republic of Tanzania,TZ08
+Nyanza,Kenya,KE07
+Arusha,United Republic of Tanzania,TZ26
+Kilimanjaro,United Republic of Tanzania,TZ06
+Tanga,United Republic of Tanzania,TZ18
+Rakai,Uganda,UG61
+Kalangala,Uganda,UG36
+Buvuma,Uganda,UGF2
+Mayuge,Uganda,UG86
+Namayingo,Uganda,UGG7
+Litoral,Equatorial Guinea,EK08
+Kié-Ntem,Equatorial Guinea,EK07
+Centro Sur,Equatorial Guinea,EK06
+Wele-Nzás,Equatorial Guinea,EK09
+Estuaire,Gabon,GB01
+Brakna,Mauritania,MR05
+Saint-Louis,Senegal,SG14
+Gorgol,Mauritania,MR04
+Matam,Senegal,SG15
+Guidimaka,Mauritania,MR10
+Hodh ech Chargui,Mauritania,MR01
+Hodh el Gharbi,Mauritania,MR02
+Assaba,Mauritania,MR03
+Western,Zambia,ZA01
+Cuando Cubango,Angola,AO04
+Moxico,Angola,AO14
+North-Western,Zambia,ZA06
+Namibe,Angola,AO13
+Kunene,Namibia,WA32
+Cunene,Angola,AO07
+Omusati,Namibia,WA36
+Ohangwena,Namibia,WA33
+Kavango,Namibia,WA07
+Caprivi,Namibia,WA28
+Tete,Mozambique,MZ08
+Mashonaland East,Zimbabwe,ZI04
+Manica,Mozambique,MZ10
+Manicaland,Zimbabwe,ZI01
+Gaza,Mozambique,MZ02
+Zaire,Angola,AO16
+Uíge,Angola,AO15
+Kasaï-Occidental,Democratic Republic of the Congo,CG03
+Lunda Norte,Angola,AO17
+Malanje,Angola,AO12
+Lunda Sul,Angola,AO18
+Hardap,Namibia,WA30
+Otjozondjupa,Namibia,WA39
+Omaheke,Namibia,WA35
+Ghanzi,Botswana,BC03
+Central River,Gambia,GA03
+North Bank,Gambia,GA07
+Upper River,Gambia,GA04
+Lower River,Gambia,GA02
+Fatick,Senegal,SG09
+West Coast,Gambia,GA05
+Illizi,Algeria,AG46
+Ash Shati',Libya,LY13
+Ghat,Libya,LY71
+Sangha-Mbaéré,Central African Republic,CT16
+Est,Cameroon,CM04
+Nana-Mambéré,Central African Republic,CT09
+Mambéré-Kadéï,Central African Republic,CT04
+Kaabong,Uganda,UGD1
+Kitgum,Uganda,UG84
+Lamwo,Uganda,UGG3
+Amuru,Uganda,UGB9
+Adjumani,Uganda,UG98
+Moyo,Uganda,UGB3
+Yumbe,Uganda,UG97
+Koboko,Uganda,UGD4
+Mpumalanga,South Africa,SF07
+Hhohho,Swaziland,WZ01
+Manzini,Swaziland,WZ03
+Shiselweni,Swaziland,WZ04
+Luapula,Zambia,ZA04
+Copperbelt,Zambia,ZA08
+Central,Zambia,ZA02
+Donga,Benin,BN13
+Zou,Benin,BN18
+Kouffo,Benin,BN12
+Mono,Benin,BN15
+Nahouri,Burkina Faso,UV65
+Upper West,Ghana,GH11
+Nkhotakota,Malawi,MI18
+Salima,Malawi,MI22
+Mangochi,Malawi,MI12
+Machinga,Malawi,MI28
+Dedza,Malawi,MI06
+Lilongwe,Malawi,MI11
+Nsanje,Malawi,MI19
+Chikwawa,Malawi,MI02
+Mwanza,Malawi,MI25
+Neno,Malawi,MI31
+Ntcheu,Malawi,MI16
+Zomba,Malawi,MI23
+Zambezia,Mozambique,MZ09
+Phalombe,Malawi,MI30
+Mulanje,Malawi,MI29
+Thyolo,Malawi,MI05
+Moroto,Uganda,UG88
+Western,Kenya,KE09
+Kapchorwa,Uganda,UGA5
+Amudat,Uganda,UGE5
+Busia,Uganda,UG67
+Tororo,Uganda,UG76
+Manafwa,Uganda,UGD6
+Bududa,Uganda,UGC2
+Maracha,Uganda,UGD7
+Arua,Uganda,UGA1
+Zombo,Uganda,UGH7
+Nebbi,Uganda,UG58
+Buliisa,Uganda,UGC5
+Hoima,Uganda,UG31
+Ntoroko,Uganda,UGH1
+Bundibugyo,Uganda,UG28
+Kabarole,Uganda,UG79
+Kasese,Uganda,UG40
+Rubirizi,Uganda,UGH4
+Rukungiri,Uganda,UG93
+Kanungu,Uganda,UG82
+Debub,Eritrea,ER02
+Red Sea,Sudan,SU36
+Semenawi Keyih Bahri,Eritrea,ER06
+Gash Barka,Eritrea,ER04
+Kassala,Sudan,SU52
+Maekel,Eritrea,ER05
+Ida-Viru,Estonia,EN03
+Põlva,Estonia,EN12
+Tartu,Estonia,EN18
+Jõgeva,Estonia,EN05
+Punjab,Pakistan,PK04
+Punjab,India,IN23
+Rajasthan,India,IN24
+Sind,Pakistan,PK05
+Gujarat,India,IN32
+Alaska,United States of America,US02
+Yukon,Canada,CA12
+White Nile,Sudan,SU41
+South Kordufan,Sudan,SU50
+Unity,S. Sudan,OD06
+Guangdong,China,CH30
+Northern Bahr el Ghazal,S. Sudan,OD05
+Naâma,Algeria,AG49
+Tlemcen,Algeria,AG15
+Himachal Pradesh,India,IN11
+Famagusta,Cyprus,CY01
+Nicosia,Cyprus,CY04
+Quneitra,Syria,SY03
+Limassol,Cyprus,CY05
+Toledo,Belize,BH06
+Thimphu,Bhutan,BT20
+Paro,Bhutan,BT13
+Gasa,Bhutan,BT23
+Jammu and Kashmir,India,IN12
+Crimea,Russia,UP11
+Kherson,Ukraine,UP08
+Bihar,India,IN34
+Narayani,Nepal,NP11
+Lumbini,Nepal,NP08
+Uttar Pradesh,India,IN36
+Rapti,Nepal,NP12
+Bheri,Nepal,NP02
+Salto,Uruguay,UY15
+Rivera,Uruguay,UY13
+Rocha,Uruguay,UY14
+Treinta y Tres,Uruguay,UY19
+Cerro Largo,Uruguay,UY03
+Heredia,Costa Rica,CS04
+Črenšovci,Slovenia,SI15
+Ljutomer,Slovenia,SII6
+Ormož,Slovenia,SI87
+Varaždinska,Croatia,HR16
+Zavrc,Slovenia,SIE9
+Gorišnica,Slovenia,SI28
+Videm,Slovenia,SIN2
+Rogatec,Slovenia,SIA8
+Rogaška Slatina,Slovenia,SIA7
+Zagrebacka,Croatia,HR20
+Krško,Slovenia,SI54
+Šentjernej,Slovenia,SIB4
+Novo Mesto,Slovenia,SIJ7
+Metlika,Slovenia,SI73
+Crnomelj,Slovenia,SI17
+Primorsko-Goranska,Croatia,HR12
+Kocevje,Slovenia,SIH7
+Loški Potok,Slovenia,SI66
+Loška dolina,Slovenia,SII7
+Ilirska Bistrica,Slovenia,SI38
+Jerusalem,Israel,IS06
+Azad Kashmir,Pakistan,PK06
+Viana do Castelo,Portugal,PO20
+Castelo Branco,Portugal,PO06
+Guarda,Portugal,PO11
+Bragança,Portugal,PO05
+Vila Real,Portugal,PO21
+Braga,Portugal,PO04
+Faro,Portugal,PO09
+Beja,Portugal,PO03
+Flintshire,United Kingdom,UKY1
+Cheshire West and Chester,United Kingdom,UKZ8
+Wrexham,United Kingdom,UKZ4
+Shropshire,United Kingdom,UKL6
+Powys,United Kingdom,UKY8
+Herefordshire,United Kingdom,UKF7
+Monmouthshire,United Kingdom,UKY4
+Gloucestershire,United Kingdom,UKE6
+Scottish Borders,United Kingdom,UKT9
+Northumberland,United Kingdom,UKJ6
+Cumbria,United Kingdom,UKC9
+Dumfries and Galloway,United Kingdom,UKU2
+Brussels,Belgium,BE11
+Guria,Georgia,GG65
+Sala ad-Din,Iraq,IZ18
+At-Ta'mim,Iraq,IZ13
+Buenos Aires,Argentina,AR01
+Maranhão,Brazil,BR13
+Piauí,Brazil,BR20
+Ceará,Brazil,BR06
+Rio Grande do Norte,Brazil,BR22
+Paraíba,Brazil,BR17
+Pernambuco,Brazil,BR30
+Alagoas,Brazil,BR02
+Sergipe,Brazil,BR28
+Bahia,Brazil,BR05
+Espírito Santo,Brazil,BR08
+Rio de Janeiro,Brazil,BR21
+São Paulo,Brazil,BR27
+Maldonado,Uruguay,UY09
+Canelones,Uruguay,UY02
+Montevideo,Uruguay,UY10
+San José,Uruguay,UY16
+Colonia,Uruguay,UY04
+Soriano,Uruguay,UY17
+Río Negro,Uruguay,UY12
+Ciudad de Buenos Aires,Argentina,AR07
+Nord,New Caledonia,NC00
+Western Australia,Australia,AS08
+Northern Territory,Australia,AS03
+South Australia,Australia,AS05
+Queensland,Australia,AS04
+Victoria,Australia,AS07
+Cuanza Sul,Angola,AO06
+Benguela,Angola,AO01
+Erongo,Namibia,WA29
+Western Cape,South Africa,SF11
+Inhambane,Mozambique,MZ03
+Sofala,Mozambique,MZ05
+Nampula,Mozambique,MZ06
+Lindi,United Republic of Tanzania,TZ07
+Pwani,United Republic of Tanzania,TZ02
+Dar-Es-Salaam,United Republic of Tanzania,TZ23
+Jawa Timur,Indonesia,ID08
+Nusa Tenggara Barat,Indonesia,ID17
+Sulawesi Selatan,Indonesia,ID38
+Jawa Tengah,Indonesia,ID07
+Jawa Barat,Indonesia,ID30
+Jakarta Raya,Indonesia,ID04
+Banten,Indonesia,ID33
+Yogyakarta,Indonesia,ID10
+Sulawesi Tenggara,Indonesia,ID22
+Papua Barat,Indonesia,ID39
+Guayas,Ecuador,EC10
+Sulawesi Tengah,Indonesia,ID21
+Maluku Utara,Indonesia,ID29
+Galápagos,Ecuador,EC01
+East Sepik,Papua New Guinea,PP11
+Madang,Papua New Guinea,PP12
+Morobe,Papua New Guinea,PP14
+Northern,Papua New Guinea,PP04
+Milne Bay,Papua New Guinea,PP03
+Central,Papua New Guinea,PP01
+Gulf,Papua New Guinea,PP02
+Kepulauan Riau,Indonesia,ID40
+Riau,Indonesia,ID37
+Gorontalo,Indonesia,ID34
+Sulawesi Utara,Indonesia,ID31
+Sulawesi Barat,Indonesia,ID41
+Cauca,Colombia,CO09
+Moquegua,Peru,PE18
+Arequipa,Peru,PE04
+Ica,Peru,PE11
+Lima,Peru,PE15
+Callao,Peru,PE07
+Áncash,Peru,PE02
+La Libertad,Peru,PE13
+Lambayeque,Peru,PE14
+Santa Elena,Ecuador,EC25
+Manabi,Ecuador,EC14
+Valle del Cauca,Colombia,CO29
+Panama,Panama,PM08
+Coclé,Panama,PM03
+Sulu,Philippines,RP60
+Jambi,Indonesia,ID05
+Sumatera Selatan,Indonesia,ID32
+Lampung,Indonesia,ID15
+Bengkulu,Indonesia,ID03
+Sumatera Barat,Indonesia,ID24
+Sumatera Utara,Indonesia,ID26
+Aceh,Indonesia,ID01
+Demerara-Mahaica,Guyana,GY12
+Kalimantan Tengah,Indonesia,ID13
+Kalimantan Selatan,Indonesia,ID12
+Davao del Norte,Philippines,RPI7
+Veraguas,Panama,PM10
+Sóc Trăng,Vietnam,VM65
+Surigao del Norte,Philippines,RPI9
+Surigao del Sur,Philippines,RP62
+Misamis Occidental,Philippines,RP42
+Lanao del Sur,Philippines,RP35
+Maguindanao,Philippines,RP56
+Sultan Kudarat,Philippines,RP71
+Sarangani,Philippines,RPM9
+Compostela Valley,Philippines,RPI6
+Davao Oriental,Philippines,RP26
+Trikuṇāmalaya,Sri Lanka,CE21
+Mulativ,Sri Lanka,CE27
+Yāpanaya,Sri Lanka,CE25
+Mannārama,Sri Lanka,CE26
+Puttalama,Sri Lanka,CE19
+Gampaha,Sri Lanka,CE24
+Kŏḷamba,Sri Lanka,CE23
+Kaḷutara,Sri Lanka,CE09
+Gālla,Sri Lanka,CE06
+Mātara,Sri Lanka,CE15
+Hambantŏṭa,Sri Lanka,CE07
+Ampāra,Sri Lanka,CE01
+Maḍakalapuva,Sri Lanka,CE04
+Southern Leyte,Philippines,RP59
+Tiền Giang,Vietnam,VM37
+Bà Rịa - Vũng Tàu,Vietnam,VM45
+Krong Preah Sihanouk,Cambodia,CB28
+Hồ Chí Minh city,Vietnam,VM20
+Eastern Samar,Philippines,RP23
+Biliran,Philippines,RPH9
+Samar,Philippines,RP55
+Khánh Hòa,Vietnam,VM54
+Colón,Panama,PM04
+Antioquia,Colombia,CO02
+Córdoba,Colombia,CO12
+Sucre,Colombia,CO27
+Bolívar,Colombia,CO35
+Atlántico,Colombia,CO04
+Magdalena,Colombia,CO38
+Mérida,Venezuela,VE14
+Trujillo,Venezuela,VE21
+Falcón,Venezuela,VE11
+Yaracuy,Venezuela,VE22
+Carabobo,Venezuela,VE07
+Aragua,Venezuela,VE04
+Vargas,Venezuela,VE26
+Miranda,Venezuela,VE15
+Anzoátegui,Venezuela,VE02
+Sucre,Venezuela,VE19
+Monagas,Venezuela,VE16
+Cuyuni-Mazaruni,Guyana,GY11
+Upper Takutu-Upper Essequibo,Guyana,GY19
+East Berbice-Corentyne,Guyana,GY13
+Essequibo Islands-West Demerara,Guyana,GY14
+Coronie,Suriname,NS12
+Saramacca,Suriname,NS17
+Wanica,Suriname,NS19
+Paramaribo,Suriname,NS16
+Commewijne,Suriname,NS11
+Andhra Pradesh,India,IN02
+Sud,Haiti,HA12
+Ondo,Nigeria,NI48
+Delta,Nigeria,NI36
+Bayelsa,Nigeria,NI52
+Rivers,Nigeria,NI50
+Akwa Ibom,Nigeria,NI21
+Littoral,Cameroon,CM05
+Ogooué-Maritime,Gabon,GB08
+Pointe Noire,Republic of the Congo,CF15
+Bengo,Angola,AO19
+Luanda,Angola,AO20
+Surt,Libya,LY76
+Misratah,Libya,LY72
+Al Marqab,Libya,LY82
+Tajura' wa an Nawahi al Arba,Libya,LY61
+Az Zawiyah,Libya,LY68
+Gabès,Tunisia,TS29
+Sfax,Tunisia,TS32
+Mahdia,Tunisia,TS15
+Monastir,Tunisia,TS16
+Sousse,Tunisia,TS23
+Nabeul,Tunisia,TS19
+Ben Arous (Tunis Sud),Tunisia,TS27
+Tunis,Tunisia,TS36
+Manubah,Tunisia,TS39
+Bizerte,Tunisia,TS18
+Béja,Tunisia,TS17
+Annaba,Algeria,AG37
+Skikda,Algeria,AG31
+Jijel,Algeria,AG24
+Béjaïa,Algeria,AG18
+Tizi Ouzou,Algeria,AG14
+Boumerdès,Algeria,AG40
+Alger,Algeria,AG01
+Tipaza,Algeria,AG55
+Chlef,Algeria,AG41
+Mostaganem,Algeria,AG07
+Oran,Algeria,AG09
+Aïn Témouchent,Algeria,AG36
+Taza - Al Hoceima - Taounate,Morocco,MO58
+Gharb - Chrarda - Béni Hssen,Morocco,MO05
+Rabat - Salé - Zemmour - Zaer,Morocco,MO49
+Chaouia - Ouardigha,Morocco,MO06
+Grand Casablanca,Morocco,MO09
+Doukkala - Abda,Morocco,MO11
+Marrakech - Tensift - Al Haouz,Morocco,MO47
+Inchiri,Mauritania,MR12
+Louga,Senegal,SG13
+Thiès,Senegal,SG07
+Dakar,Senegal,SG01
+Banjul,Gambia,GA01
+Biombo,Guinea Bissau,PU12
+Bissau,Guinea Bissau,PU11
+Quinara,Guinea Bissau,PU02
+Bolama,Guinea Bissau,PU05
+Boffa,Guinea,GV02
+Dubréka,Guinea,GV31
+Conakry,Guinea,GV04
+Coyah,Guinea,GV30
+Western,Sierra Leone,SL04
+Bomi,Liberia,LI15
+Montserrado,Liberia,LI14
+Margibi,Liberia,LI17
+Grand Bassa,Liberia,LI11
+River Cess,Liberia,LI18
+Sinoe,Liberia,LI10
+Grand Kru,Liberia,LI16
+Sud-Bandama,Ivory Coast,IV29
+Lagunes,Ivory Coast,IV61
+Central,Ghana,GH04
+Greater Accra,Ghana,GH01
+Atlantique,Benin,BN09
+Littoral,Benin,BN14
+Colima,Mexico,MX08
+Grand'Anse,Haiti,HA14
+Aurora,Philippines,RPG8
+Camarines Norte,Philippines,RP15
+Albay,Philippines,RP05
+Sorsogon,Philippines,RP58
+Batangas,Philippines,RP09
+Cavite,Philippines,RP20
+Bulacan,Philippines,RP13
+Bataan,Philippines,RP07
+La Union,Philippines,RP36
+Ilocos Sur,Philippines,RP29
+Ilocos Norte,Philippines,RP28
+Cagayan,Philippines,RP14
+Nord-Ouest,Haiti,HA03
+Hainan,China,CH31
+Nayarit,Mexico,MX18
+Inagua,The Bahamas,BF13
+Mayaguana,The Bahamas,BF16
+Acklins,The Bahamas,BF24
+Fujian,China,CH07
+Baja California Sur,Mexico,MX03
+Jubbada Dhexe,Somalia,SO08
+Shabeellaha Dhexe,Somalia,SO13
+Djibouti,Djibouti,DJ07
+As Suways,Egypt,EG15
+Janub Sina',Egypt,EG26
+Tabuk,Saudi Arabia,SA19
+Al Madinah,Saudi Arabia,SA05
+Makkah,Saudi Arabia,SA14
+Al Hudaydah,Yemen,YM08
+Ta`izz,Yemen,YM25
+Lahij,Yemen,YM24
+`Adan,Yemen,YM02
+Shabwah,Yemen,YM05
+Ash Sharqiyah South,Oman,MU04
+Ash Sharqiyah North,Oman,MU12
+Umm Al Qaywayn,United Arab Emirates,AE07
+Al Wakrah,Qatar,QA10
+Ad Dawhah,Qatar,QA01
+Al Daayen,Qatar,QA13
+Al Khawr,Qatar,QA04
+Madinat ach Shamal,Qatar,QA08
+Hawalli,Kuwait,KU08
+Al Asimah,Kuwait,KU02
+Sinaloa,Mexico,MX25
+Louisiana,United States of America,US22
+Mississippi,United States of America,US28
+Alabama,United States of America,US01
+Florida,United States of America,US12
+Georgia,United States of America,US13
+South Carolina,United States of America,US45
+North Carolina,United States of America,US37
+Virginia,United States of America,US51
+District of Columbia,United States of America,US11
+Maryland,United States of America,US24
+Delaware,United States of America,US10
+New Jersey,United States of America,US34
+Connecticut,United States of America,US09
+Rhode Island,United States of America,US44
+Massachusetts,United States of America,US25
+Atlántico Sur,Nicaragua,NU18
+Colón,Honduras,HO03
+Stann Creek,Belize,BH05
+Belize,Belize,BH01
+Yucatán,Mexico,MX31
+Veracruz,Mexico,MX30
+Jalisco,Mexico,MX14
+Michoacán,Mexico,MX16
+Guerrero,Mexico,MX12
+Oaxaca,Mexico,MX20
+Retalhuleu,Guatemala,GT15
+Suchitepéquez,Guatemala,GT20
+Escuintla,Guatemala,GT06
+Santa Rosa,Guatemala,GT18
+Sonsonate,El Salvador,ES13
+La Libertad,El Salvador,ES05
+La Paz,El Salvador,ES06
+San Vicente,El Salvador,ES12
+Usulután,El Salvador,ES14
+León,Nicaragua,NU08
+Managua,Nicaragua,NU10
+Carazo,Nicaragua,NU02
+Los Santos,Panama,PM07
+Herrera,Panama,PM06
+Zhejiang,China,CH02
+Shanghai,China,CH23
+Kagoshima,Japan,JA18
+Jiangsu,China,CH04
+Bushehr,Iran,IR22
+Hormozgan,Iran,IR11
+Tel Aviv,Israel,IS05
+Bur Sa`id,Egypt,EG19
+Ad Daqahliyah,Egypt,EG01
+Ash Sharqiyah,Egypt,EG14
+Al Isma`iliyah,Egypt,EG07
+Dumyat,Egypt,EG20
+Kafr ash Shaykh,Egypt,EG21
+Al Buhayrah,Egypt,EG03
+Al Iskandariyah,Egypt,EG06
+Al Qubbah,Libya,LY55
+Al Jabal al Akhdar,Libya,LY63
+Al Marj,Libya,LY66
+Benghazi,Libya,LY69
+Ōita,Japan,JA30
+Fukuoka,Japan,JA07
+Saga,Japan,JA33
+Nagasaki,Japan,JA27
+Kumamoto,Japan,JA21
+Miyazaki,Japan,JA25
+Tokushima,Japan,JA39
+Kagawa,Japan,JA17
+Ehime,Japan,JA05
+Kōchi,Japan,JA20
+Shimane,Japan,JA36
+South Chungcheong,South Korea,KS17
+Yamaguchi,Japan,JA45
+Tottori,Japan,JA41
+Hyōgo,Japan,JA13
+Kyōto,Japan,JA22
+Fukui,Japan,JA06
+Ishikawa,Japan,JA15
+Toyama,Japan,JA42
+Niigata,Japan,JA29
+Yamagata,Japan,JA44
+Akita,Japan,JA02
+Aomori,Japan,JA03
+Iwate,Japan,JA16
+Miyagi,Japan,JA24
+Fukushima,Japan,JA08
+Ibaraki,Japan,JA14
+Chiba,Japan,JA04
+Tokyo,Japan,JA40
+Kanagawa,Japan,JA19
+Shizuoka,Japan,JA37
+Aichi,Japan,JA01
+Mie,Japan,JA23
+Wakayama,Japan,JA43
+Ōsaka,Japan,JA32
+Okayama,Japan,JA31
+Hiroshima,Japan,JA11
+Oregon,United States of America,US41
+Nunavut,Canada,CA14
+Newfoundland and Labrador,Canada,CA05
+Nova Scotia,Canada,CA07
+Hokkaidō,Japan,JA12
+Odisha,India,IN21
+Barisal,Bangladesh,BG85
+Ayeyarwady,Myanmar,BM03
+Yangon,Myanmar,BM17
+Bago,Myanmar,BM16
+Phangnga,Thailand,TH61
+Krabi,Thailand,TH63
+Trang,Thailand,TH65
+Pulau Pinang,Malaysia,MY09
+Selangor,Malaysia,MY12
+Negeri Sembilan,Malaysia,MY05
+Melaka,Malaysia,MY04
+Johor,Malaysia,MY01
+Pahang,Malaysia,MY06
+Terengganu,Malaysia,MY13
+Pattani,Thailand,TH69
+Phatthalung,Thailand,TH66
+Nakhon Si Thammarat,Thailand,TH64
+Surat Thani,Thailand,TH60
+Samut Songkhram,Thailand,TH54
+Samut Sakhon,Thailand,TH55
+Bangkok Metropolis,Thailand,TH40
+Samut Prakan,Thailand,TH42
+Chachoengsao,Thailand,TH44
+Chon Buri,Thailand,TH46
+Rayong,Thailand,TH47
+Kep,Cambodia,CB26
+Cà Mau,Vietnam,VM77
+Bạc Liêu,Vietnam,VM73
+Vĩnh Long,Vietnam,VM69
+Trà Vinh,Vietnam,VM67
+Bến Tre,Vietnam,VM03
+Đông Nam Bộ,Vietnam,VM43
+Bình Thuận,Vietnam,VM47
+Ninh Thuận,Vietnam,VM60
+Phú Yên,Vietnam,VM61
+Bình Định,Vietnam,VM46
+Quảng Ngãi,Vietnam,VM63
+Đà Nẵng,Vietnam,VM78
+Ninh Bình,Vietnam,VM59
+Nam Định,Vietnam,VM82
+Thái Bình,Vietnam,VM35
+Shandong,China,CH25
+Hebei,China,CH10
+Tianjin,China,CH28
+P'yŏngan-namdo,North Korea,KN10
+Hwanghae-namdo,North Korea,KN06
+Incheon,South Korea,KS12
+North Jeolla,South Korea,KS03
+South Gyeongsang,South Korea,KS20
+Busan,South Korea,KS10
+Ulsan,South Korea,KS21
+Hamgyŏng-namdo,North Korea,KN03
+Maga Buryatdan,Russia,RS44
+Dadra and Nagar Haveli and Daman and Diu,India,IN52
+Maharashtra,India,IN16
+Goa,India,IN08
+Karnataka,India,IN19
+Kerala,India,IN13
+Sakhalin,Russia,RS64
+Dublin,Ireland,EI33
+Dún Laoghaire–Rathdown,Ireland,EI34
+Wicklow,Ireland,EI31
+Wexford,Ireland,EI30
+Kilkenny,Ireland,EI13
+Cork,Ireland,EI04
+Kerry,Ireland,EI11
+Limerick,Ireland,EI16
+Clare,Ireland,EI03
+Galway,Ireland,EI10
+Galway,Ireland,EI36
+Mayo,Ireland,EI20
+Sligo,Ireland,EI25
+Limavady,United Kingdom,UK68
+Coleraine,United Kingdom,UK61
+Moyle,United Kingdom,UK72
+Larne,United Kingdom,UK67
+Carrickfergus,United Kingdom,UK59
+Newtownabbey,United Kingdom,UK74
+Belfast,United Kingdom,UKR3
+North Down,United Kingdom,UK75
+Ards,United Kingdom,UK53
+Down,United Kingdom,UK64
+Meath,Ireland,EI21
+Fingal,Ireland,EI35
+Zaporizhzhya,Ukraine,UP26
+Sevastopol,Russia,UP20
+Mykolayiv,Ukraine,UP16
+Varna,Bulgaria,BU61
+Istanbul,Turkey,TU34
+Tekirdag,Turkey,TU59
+Çanakkale,Turkey,TU17
+Clackmannanshire,United Kingdom,UKU1
+Stirling,United Kingdom,UKW6
+Falkirk,United Kingdom,UKU9
+West Lothian,United Kingdom,UKW9
+East Lothian,United Kingdom,UKU6
+North Tyneside,United Kingdom,UKJ5
+South Tyneside,United Kingdom,UKM7
+Sunderland,United Kingdom,UKN6
+Durham,United Kingdom,UKD8
+Hartlepool,United Kingdom,UKF5
+Redcar and Cleveland,United Kingdom,UKK9
+North Yorkshire,United Kingdom,UKJ7
+East Riding of Yorkshire,United Kingdom,UKE1
+Kingston upon Hull,United Kingdom,UKG6
+North Lincolnshire,United Kingdom,UKJ3
+North East Lincolnshire,United Kingdom,UKJ2
+Lincolnshire,United Kingdom,UKH7
+Norfolk,United Kingdom,UKI9
+Suffolk,United Kingdom,UKN5
+Essex,United Kingdom,UKE4
+Southend-on-Sea,United Kingdom,UKM5
+Thurrock,United Kingdom,UKO3
+Kent,United Kingdom,UKG5
+Medway,United Kingdom,UKI3
+East Sussex,United Kingdom,UKE2
+Brighton and Hove,United Kingdom,UKB6
+West Sussex,United Kingdom,UKP6
+Hampshire,United Kingdom,UKF2
+Portsmouth,United Kingdom,UKK6
+Southampton,United Kingdom,UKM4
+Dorset,United Kingdom,UKD6
+Bournemouth,United Kingdom,UKB2
+Poole,United Kingdom,UKK5
+Devon,United Kingdom,UKD4
+Torbay,United Kingdom,UKO4
+Plymouth,United Kingdom,UKK4
+Cornwall,United Kingdom,UKC6
+Somerset,United Kingdom,UKM3
+North Somerset,United Kingdom,UKJ4
+Bristol,United Kingdom,UKB7
+South Gloucestershire,United Kingdom,UKM6
+Newport,United Kingdom,UKY6
+Cardiff,United Kingdom,UKX5
+Vale of Glamorgan,United Kingdom,UKZ3
+Bridgend,United Kingdom,UKX3
+Neath Port Talbot,United Kingdom,UKY5
+Swansea,United Kingdom,UKZ1
+Carmarthenshire,United Kingdom,UKX7
+Pembrokeshire,United Kingdom,UKY7
+Ceredigion,United Kingdom,UKX6
+Gwynedd,United Kingdom,UKY2
+Conwy,United Kingdom,UKX8
+Denbighshire,United Kingdom,UKX9
+Knowsley,United Kingdom,UKG9
+Liverpool,United Kingdom,UKH8
+Sefton,United Kingdom,UKL8
+Lancashire,United Kingdom,UKH2
+Blackpool,United Kingdom,UKA9
+South Ayrshire,United Kingdom,UKW4
+Inverclyde,United Kingdom,UKV4
+Renfrewshire,United Kingdom,UKW2
+West Dunbartonshire,United Kingdom,UKW7
+Argyll and Bute,United Kingdom,UKT8
+Highland,United Kingdom,UKV3
+Aberdeenshire,United Kingdom,UKT6
+Aberdeen,United Kingdom,UKT5
+Angus,United Kingdom,UKT7
+Dundee,United Kingdom,UKU3
+Perthshire and Kinross,United Kingdom,UKW1
+Fife,United Kingdom,UKV1
+Austurland,Iceland,IC38
+Suðurland,Iceland,IC42
+Suðurnes,Iceland,IC43
+Höfuðborgarsvæði,Iceland,IC39
+Vesturland,Iceland,IC45
+Vestfirðir,Iceland,IC44
+Norðurland vestra,Iceland,IC41
+Yamal-Nenets,Russia,RS87
+Nenets,Russia,RS50
+Northwest Territories,Canada,CA13
+Nicas,Latvia,LG99
+Liepāja,Latvia,LG16
+Grobinas,Latvia,LG65
+Pavilostas,Latvia,LGA5
+Dundagas,Latvia,LG60
+Rojas,Latvia,LGB4
+Talsi,Latvia,LGD4
+Mersraga,Latvia,LGF1
+Engures,Latvia,LG62
+Jurmala,Latvia,LG13
+Riga,Latvia,LG25
+Carnikavas,Latvia,LG53
+Saulkrastu,Latvia,LGC5
+Limbaži,Latvia,LG89
+Lääne,Estonia,EN07
+Harju,Estonia,EN01
+Lääne-Viru,Estonia,EN08
+City of St. Petersburg,Russia,RS66
+Västernorrland,Sweden,SW24
+Gävleborg,Sweden,SW03
+Uppsala,Sweden,SW21
+Stockholm,Sweden,SW26
+Östergötland,Sweden,SW16
+Kalmar,Sweden,SW09
+Blekinge,Sweden,SW02
+Skåne,Sweden,SW11
+Halland,Sweden,SW06
+Oslo,Norway,NO12
+Buskerud,Norway,NO04
+Vestfold,Norway,NO20
+Telemark,Norway,NO17
+Aust-Agder,Norway,NO02
+Vest-Agder,Norway,NO19
+Rogaland,Norway,NO14
+Hordaland,Norway,NO07
+Sogn og Fjordane,Norway,NO15
+Møre og Romsdal,Norway,NO08
+Rize,Turkey,TU53
+Trabzon,Turkey,TU61
+Giresun,Turkey,TU28
+Ordu,Turkey,TU52
+Samsun,Turkey,TU55
+Sinop,Turkey,TU57
+Kastamonu,Turkey,TU37
+Bartın,Turkey,TU87
+Zinguldak,Turkey,TU85
+Düzce,Turkey,TU93
+Sakarya,Turkey,TU54
+Kocaeli,Turkey,TU41
+Yalova,Turkey,TU92
+Bursa,Turkey,TU16
+Balikesir,Turkey,TU10
+Izmir,Turkey,TU35
+Aydin,Turkey,TU09
+Mugla,Turkey,TU48
+Antalya,Turkey,TU07
+Mersin,Turkey,TU32
+Adana,Turkey,TU81
+Mount Lebanon,Lebanon,LE05
+Beirut,Lebanon,LE04
+Arkhangel'sk,Russia,RS06
+Krasnoyarsk,Russia,RS91
+Ayion Oros,Greece,GR15
+Thessalia,Greece,GR21
+Stereá Elláda,Greece,GR33
+Attiki,Greece,GR35
+Peloponnisos,Greece,GR36
+Dytiki Ellada,Greece,GR38
+Fier,Albania,AL44
+Tiranë,Albania,AL50
+Durrës,Albania,AL42
+Lezhë,Albania,AL48
+Šibensko-Kninska,Croatia,HR13
+Licko-Senjska,Croatia,HR08
+Izola,Slovenia,SI40
+Murcia,Spain,SP96
+Setúbal,Portugal,PO19
+Lisboa,Portugal,PO14
+Santarém,Portugal,PO18
+Leiria,Portugal,PO13
+Coimbra,Portugal,PO07
+Aveiro,Portugal,PO02
+Porto,Portugal,PO17
+Asturias,Spain,SP95
+Zuid-Holland,Netherlands,NL11
+Noord-Holland,Netherlands,NL07
+Friesland,Netherlands,NL02
+Bremen,Germany,GM03
+Hamburg,Germany,GM04
+La Digue and Inner Islands,Seychelles,SE25
+Lakshadweep,India,IN14
+Nueva Esparta,Venezuela,VE17
+Tunapuna/Piarco,Trinidad and Tobago,TD23
+San Juan-Laventille,Trinidad and Tobago,TD20
+Diego Martin,Trinidad and Tobago,TD15
+Port of Spain,Trinidad and Tobago,TD05
+Chaguanas,Trinidad and Tobago,TD13
+Couva-Tabaquite-Talparo,Trinidad and Tobago,TD14
+San Fernando,Trinidad and Tobago,TD10
+Penal-Debe,Trinidad and Tobago,TD17
+Siparia,Trinidad and Tobago,TD22
+Point Fortin,Trinidad and Tobago,TD18
+Princes Town,Trinidad and Tobago,TD19
+Rio Claro-Mayaro,Trinidad and Tobago,TD16
+Sangre Grande,Trinidad and Tobago,TD21
+Dependencias Federales,Venezuela,VE24
+Saint George,Grenada,GJ03
+Saint David,Grenada,GJ02
+Saint Andrew,Grenada,GJ01
+Saint Patrick,Grenada,GJ06
+Saint Mark,Grenada,GJ05
+Saint John,Grenada,GJ04
+Andaman and Nicobar,India,IN01
+San Andrés y Providencia,Colombia,CO25
+Grenadines,Saint Vincent and the Grenadines,VC06
+Saint Joseph,Barbados,BB06
+Saint Andrew,Barbados,BB02
+Saint Peter,Barbados,BB09
+Saint Lucy,Barbados,BB07
+Saint James,Barbados,BB04
+Saint Michael,Barbados,BB08
+Christ Church,Barbados,BB01
+Saint Philip,Barbados,BB10
+Saint John,Barbados,BB05
+Saint Andrew,Saint Vincent and the Grenadines,VC02
+Saint George,Saint Vincent and the Grenadines,VC04
+Charlotte,Saint Vincent and the Grenadines,VC01
+Saint David,Saint Vincent and the Grenadines,VC03
+Saint Patrick,Saint Vincent and the Grenadines,VC05
+Gros Islet,Saint Lucia,ST06
+Castries,Saint Lucia,ST03
+Anse-la-Raye,Saint Lucia,SF01
+Soufrière,Saint Lucia,ST09
+Choiseul,Saint Lucia,ST04
+Laborie,Saint Lucia,ST07
+Vieux Fort,Saint Lucia,ST10
+Micoud,Saint Lucia,ST08
+Dennery,Saint Lucia,ST05
+Martinique,France,MB**
+Saint Patrick,Dominica,DO09
+Saint David,Dominica,DO03
+Saint Andrew,Dominica,DO02
+Saint John,Dominica,DO05
+Saint Peter,Dominica,DO11
+Saint Joseph,Dominica,DO06
+Saint Paul,Dominica,DO10
+Saint George,Dominica,DO04
+Saint Luke,Dominica,DO07
+Saint Mark,Dominica,DO08
+Johnston Atoll,United States Minor Outlying Islands,JQ200
+Saint Peter,Montserrat,MH03
+Saint Anthony,Montserrat,MH01
+Saint Georges,Montserrat,MH02
+Saint Paul,Antigua and Barbuda,AC06
+Saint Philip,Antigua and Barbuda,AC08
+Saint Peter,Antigua and Barbuda,AC07
+Saint George,Antigua and Barbuda,AC03
+Saint John,Antigua and Barbuda,AC04
+Saint Mary,Antigua and Barbuda,AC05
+Saint Paul Charlestown,Saint Kitts and Nevis,SC10
+Saint John Figtree,Saint Kitts and Nevis,SC07
+Saint George Gingerland,Saint Kitts and Nevis,SC04
+Saint James Windward,Saint Kitts and Nevis,SC05
+Saint Thomas Lowland,Saint Kitts and Nevis,SC12
+Saint Paul Capesterre,Saint Kitts and Nevis,SC09
+Saint Anne Sandy Point,Saint Kitts and Nevis,SC02
+Saint Thomas Middle Island,Saint Kitts and Nevis,SC13
+Trinity Palmetto Point,Saint Kitts and Nevis,SC15
+Saint George Basseterre,Saint Kitts and Nevis,SC03
+Saint Peter Basseterre,Saint Kitts and Nevis,SC11
+Saint Mary Cayon,Saint Kitts and Nevis,SC08
+Christ Church Nichola Town,Saint Kitts and Nevis,SC01
+Saint John Capesterre,Saint Kitts and Nevis,SC06
+Barbuda,Antigua and Barbuda,AC01
+Saint Croix,United States Virgin Islands,VQ030
+Puerto Rico,Puerto Rico,72033
+La Altagracia,Dominican Republic,DR10
+Saint John,United States Virgin Islands,020
+Saint Thomas,United States Virgin Islands,VQ010
+Saint Ann,Jamaica,JM09
+Trelawny,Jamaica,JM15
+Saint James,Jamaica,JM12
+Hanover,Jamaica,JM02
+Westmoreland,Jamaica,JM16
+Saint Elizabeth,Jamaica,JM11
+Manchester,Jamaica,JM04
+Clarendon,Jamaica,JM01
+Saint Catherine,Jamaica,JM10
+Saint Andrew,Jamaica,JM08
+Kingston,Jamaica,JM17
+Saint Thomas,Jamaica,JM14
+Portland,Jamaica,JM07
+Saint Mary,Jamaica,JM13
+El Seybo,Dominican Republic,DR28
+Hato Mayor,Dominican Republic,DR29
+Samaná,Dominican Republic,DR20
+María Trinidad Sánchez,Dominican Republic,DR14
+Espaillat,Dominican Republic,DR08
+Puerto Plata,Dominican Republic,DR18
+Nord,Haiti,HA09
+L'Artibonite,Haiti,HA06
+Nippes,Haiti,HA15
+Barahona,Dominican Republic,DR03
+Azua,Dominican Republic,DR01
+Peravia,Dominican Republic,DR35
+San Cristóbal,Dominican Republic,DR33
+Distrito Nacional,Dominican Republic,DR34
+San Pedro de Macorís,Dominican Republic,DR24
+La Romana,Dominican Republic,DR12
+Holguín,Cuba,CU12
+Isla de la Juventud,Cuba,CU04
+Crooked Island and Long Cay,The Bahamas,BF40
+Sancti Spíritus,Cuba,CU14
+Villa Clara,Cuba,CU16
+Matanzas,Cuba,CU03
+Exuma,The Bahamas,BF10
+Long Island,The Bahamas,BF15
+Rum Cay,The Bahamas,BF49
+Black Point,The Bahamas,BF36
+San Salvador,The Bahamas,BF35
+Central Andros,The Bahamas,BF38
+Mangrove Cay,The Bahamas,BF44
+South Andros,The Bahamas,BF51
+Cat Island,The Bahamas,BF06
+North Andros,The Bahamas,BF47
+Central Eleuthera,The Bahamas,BF39
+North Eleuthera,The Bahamas,BF48
+South Eleuthera,The Bahamas,BF52
+Berry Islands,The Bahamas,BF32
+Moore's Island,The Bahamas,BF45
+City of Freeport,The Bahamas,BF25
+West Grand Bahama,The Bahamas,BF54
+East Grand Bahama,The Bahamas,BF41
+Central Abaco,The Bahamas,BF37
+South Abaco,The Bahamas,BF50
+North Abaco,The Bahamas,BF46
+Kalmyk,Russia,RS24
+Dəvəçi,Azerbaijan,AJ17
+Siyəzən,Azerbaijan,AJ53
+Xizı,Azerbaijan,AJ63
+Sumqayıt,Azerbaijan,AJ54
+Bakı,Azerbaijan,AJ09
+Salyan,Azerbaijan,AJ49
+Neftçala,Azerbaijan,AJ36
+Lankaran,Azerbaijan,AJ29
+Masallı,Azerbaijan,AJ32
+Lankaran,Azerbaijan,AJ30
+Mazandaran,Iran,IR17
+Andjazîdja,Comoros,CN02
+Zanzibar South and Central,United Republic of Tanzania,TZ21
+Kaskazini-Unguja,United Republic of Tanzania,TZ22
+Zanzibar West,United Republic of Tanzania,TZ25
+Kusini-Pemba,United Republic of Tanzania,TZ20
+Kaskazini-Pemba,United Republic of Tanzania,TZ13
+Annobón,Equatorial Guinea,EK03
+São Tomé,Sao Tome and Principe,TP02
+Príncipe,Sao Tome and Principe,TP01
+Bioko Norte,Equatorial Guinea,EK04
+Bioko Sur,Equatorial Guinea,EK05
+Brava,Cape Verde,CV02
+Santa Catarina do Fogo,Cape Verde,CV24
+Mosteiros,Cape Verde,CV13
+São Filipe,Cape Verde,CV18
+Tarrafal,Cape Verde,CV20
+Santa Catarina,Cape Verde,CV15
+Ribeira Grande de Santiago,Cape Verde,CV23
+Praia,Cape Verde,CV14
+São Domingos,Cape Verde,CV17
+Santa Cruz,Cape Verde,CV16
+São Miguel,Cape Verde,CV19
+Maio,Cape Verde,CV04
+Boa Vista,Cape Verde,CV01
+Ribeira Brava,Cape Verde,CV22
+Tarrafal de São Nicolau,Cape Verde,CV27
+Sal,Cape Verde,CV08
+São Vicente,Cape Verde,CV11
+Ribeira Grande,Cape Verde,CV07
+Porto Novo,Cape Verde,CV21
+Paul,Cape Verde,CV05
+Madeira,Portugal,PO10
+Kriti,Greece,GR43
+Notio Aigaio,Greece,GR47
+Paphos,Cyprus,CY06
+San Giljan,Malta,MT49
+San Pawl il-Bahar,Malta,MT52
+San Lawrenz,Malta,MT50
+Azores,Portugal,PO23
+Voreio Aigaio,Greece,GR48
+Ionioi Nisoi,Greece,GR25
+Baleares,Spain,SP07
+Isle of Wight,United Kingdom,UKG2
+Anglesey,United Kingdom,UKX1
+Eilean Siar,United Kingdom,UKW8
+Shetland Islands,United Kingdom,UKW3
+Eysturoyar,Faroe Islands,FO00
+Tasmania,Australia,AS06
+Cocos (Keeling) Islands,Indian Ocean Territories,CK00
+Bali,Indonesia,ID02
+Labuan,Malaysia,MY15
+Phuket,Thailand,TH62
+Hawaii,United States of America,US15
+Okinawa,Japan,JA47
+Jeju,South Korea,KS01
+Kamchatka,Russia,RS92
+Saare,Estonia,EN14
+Hiiu,Estonia,EN02
+Svalbard,Norway,SV00
+Eastern,Fiji,FJ02
+Gaga'emauga,Samoa,WS05
+Gaga'ifomauga,Samoa,WS07
+Vaisigano,Samoa,WS11
+Satupa'itea,Samoa,WS09
+Palauli,Samoa,WS08
+Fa'asaleleaga,Samoa,WS04
+Makira,Solomon Islands,BP08
+Temotu,Solomon Islands,BP09
+Malaita,Solomon Islands,BP03
+Isabel,Solomon Islands,BP07
+Ainaro,East Timor,TT02
+Manufahi,East Timor,TT11
+Manatuto,East Timor,TT10
+Viqueque,East Timor,TT13
+Baucau,East Timor,TT03
+Dili,East Timor,TT06
+Liquica,East Timor,TT00
+North Solomons,Papua New Guinea,PP07
+West New Britain,Papua New Guinea,PP17
+East New Britain,Papua New Guinea,PP10
+New Ireland,Papua New Guinea,PP15
+Bangka-Belitung,Indonesia,ID35
+Manus,Papua New Guinea,PP13
+Anetan,Nauru,NR03
+Ewa,Nauru,NR09
+Baiti,Nauru,NR05
+Uaboe,Nauru,NR13
+Nibok,Nauru,NR12
+Denigomodu,Nauru,NR08
+Aiwo,Nauru,NR01
+Boe,Nauru,NR06
+Yaren,Nauru,NR14
+Meneng,Nauru,NR11
+Anibare,Nauru,NR04
+Ijuw,Nauru,NR10
+Anabar,Nauru,NR02
+Tawi-Tawi,Philippines,RPO4
+Kosrae,Federated States of Micronesia,FM01
+Basilan,Philippines,RP22
+Pohnpei,Federated States of Micronesia,FM02
+Chuuk,Federated States of Micronesia,FM03
+Camiguin,Philippines,RP17
+Siquijor,Philippines,RP69
+Bohol,Philippines,RP11
+Guimaras,Philippines,RPJ3
+Bacolod,Philippines,RPA2
+Negros Occidental,Philippines,RPH3
+Negros Oriental,Philippines,RP46
+Mandaue,Philippines,RPD8
+Cebu,Philippines,RP21
+Aklan,Philippines,RP04
+Antique,Philippines,RP06
+Iloilo,Philippines,RP30
+Capiz,Philippines,RP18
+Romblon,Philippines,RP54
+Northern Samar,Philippines,RP67
+Masbate,Philippines,RP39
+Mindoro Oriental,Philippines,RP41
+Mindoro Occidental,Philippines,RP40
+Marinduque,Philippines,RP38
+Catanduanes,Philippines,RP19
+Batanes,Philippines,RP08
+Sud,New Caledonia,NC03
+Îles Loyauté,New Caledonia,NC01
+Tafea,Vanuatu,NH15
+Rodrigues,Mauritius,MP23
+Western,Fiji,FJ05
+Central,Fiji,FJ01
+Shefa,Vanuatu,NH18
+Northern,Fiji,FJ03
+Malampa,Vanuatu,NH16
+Sanma,Vanuatu,NH13
+Penama,Vanuatu,NH17
+Western,American Samoa,AQ050
+Eastern,American Samoa,AQ010
+Manu's,American Samoa,AQ020
+Torba,Vanuatu,NH07
+Atua,Samoa,WS03
+Va'a-o-Fonoti,Samoa,WS06
+Tuamasaga,Samoa,WS10
+A'ana,Samoa,WS01
+Aiga-i-le-Tai,Samoa,WS02
+Rotuma,Fiji,FJ04
+Yap,Federated States of Micronesia,FM04
+Rota,Northern Mariana Islands,100
+Tinian,Northern Mariana Islands,120
+Saipan,Northern Mariana Islands,110
+Paracel Islands,China,PF
+Northern Islands,Northern Mariana Islands,085
+Las Tunas,Cuba,CU13
+Mayabeque,Cuba,CU18
+Ciudad de la Habana,Cuba,CU02
+Artemisa,Cuba,CU17
+Pinar del Río,Cuba,CU01
+Cienfuegos,Cuba,CU08
+Granma,Cuba,CU09
+Santiago de Cuba,Cuba,CU15
+Prince Edward Island,Canada,CA09
+Rose Atoll,American Samoa,AQ030
+Swain's Island,American Samoa,AQ040
+Jarvis Island,United States Minor Outlying Islands,DQ150
+Baker Island,United States Minor Outlying Islands,FQ050
+Howland Island,United States Minor Outlying Islands,HQ100
+Wake Atoll,United States Minor Outlying Islands,WQ450
+Bimini,The Bahamas,BF05
+Midway Islands,United States Minor Outlying Islands,MQ300
+Isles of Scilly,United Kingdom,UKZ9
+Navassa Island,United States Minor Outlying Islands,BQ350
+Ragged Island,The Bahamas,BF18
+Southland,New Zealand,NZF8
+Marlborough District,New Zealand,NZF4
+Tasman District,New Zealand,NZG4
+West Coast,New Zealand,NZG3
+Otago,New Zealand,NZF7
+Canterbury,New Zealand,NZE9
+Auckland,New Zealand,NZE7
+Manawatu-Wanganui,New Zealand,NZF3
+Taranaki,New Zealand,NZF9
+Northland,New Zealand,NZF6
+Bay of Plenty,New Zealand,NZE8
+Gisborne District,New Zealand,NZF1
+Hawke's Bay,New Zealand,NZF2
+Palmyra Atoll,United States Minor Outlying Islands,LQ400
+Lapu-Lapu,Philippines,RPD4
+Redonda,Antigua and Barbuda,AC09
+Harbour Island,The Bahamas,BF22
+Spanish Wells,The Bahamas,BF53
+Midlands,Zimbabwe,ZI02
+Harare,Zimbabwe,ZI10
+Bulawayo,Zimbabwe,ZI09
+Ma'rib,Yemen,YM14
+Sana'a,Yemen,YM16
+Al Bayda',Yemen,YM20
+Amran,Yemen,YM19
+Al Dali',Yemen,YM18
+Ibb,Yemen,YM23
+Al Mahwit,Yemen,YM10
+Dhamar,Yemen,YM11
+Hòa Bình,Vietnam,VM53
+Tuyên Quang,Vietnam,VM68
+Yên Bái,Vietnam,VM70
+Vĩnh Phúc,Vietnam,VM86
+Phú Thọ,Vietnam,VM83
+Đông Bắc,Vietnam,VM72
+Đồng Bằng Sông Hồng,Vietnam,VM81
+Bắc Ninh,Vietnam,VM74
+Bắc Giang,Vietnam,VM71
+Thái Nguyên,Vietnam,VM85
+Hải Dương,Vietnam,VM79
+Hà Nam,Vietnam,VM80
+Bình Dương,Vietnam,VM75
+Lâm Đồng,Vietnam,VM23
+Tacuarembó,Uruguay,UY18
+Durazno,Uruguay,UY05
+Flores,Uruguay,UY06
+Florida,Uruguay,UY07
+Lavalleja,Uruguay,UY08
+Guárico,Venezuela,VE12
+Cojedes,Venezuela,VE08
+Distrito Capital,Venezuela,VE25
+Barinas,Venezuela,VE05
+Lara,Venezuela,VE13
+Portuguesa,Venezuela,VE18
+Poltava,Ukraine,UP18
+Khmel'nyts'kyy,Ukraine,UP09
+Ternopil',Ukraine,UP22
+Dnipropetrovs'k,Ukraine,UP04
+Cherkasy,Ukraine,UP01
+Kirovohrad,Ukraine,UP10
+Siliana,Tunisia,TS22
+Sidi Bou Zid,Tunisia,TS33
+Kairouan,Tunisia,TS03
+Zaghouan,Tunisia,TS37
+Bern,Switzerland,SZ05
+Lucerne,Switzerland,SZ11
+Zug,Switzerland,SZ24
+Uri,Switzerland,SZ21
+Schwyz,Switzerland,SZ17
+Glarus,Switzerland,SZ08
+Nidwalden,Switzerland,SZ13
+Fribourg,Switzerland,SZ06
+Obwalden,Switzerland,SZ14
+Pesnica,Slovenia,SI89
+Duplek,Slovenia,SI26
+Lenart,Slovenia,SII3
+Ribnica na Pohorju,Slovenia,SIA5
+Slovenj Gradec,Slovenia,SIC2
+Vuzenica,Slovenia,SIE6
+Chimbu,Papua New Guinea,PP08
+Enga,Papua New Guinea,PP19
+Western Highlands,Papua New Guinea,PP16
+Southern Highlands,Papua New Guinea,PP05
+Eastern Highlands,Papua New Guinea,PP09
+Criuleni,Moldova,MD69
+Anenii Noi,Moldova,MD59
+Orhei,Moldova,MD82
+Transnistria,Moldova,MD72
+Chişinău,Moldova,MD57
+Teleneşti,Moldova,MD91
+Floreşti,Moldova,MD75
+Ialoveni,Moldova,MD78
+Bolu,Turkey,TU14
+Ankara,Turkey,TU68
+Bilecik,Turkey,TU11
+Eskisehir,Turkey,TU26
+Çankiri,Turkey,TU82
+Karabük,Turkey,TU89
+Jharkhand,India,IN38
+Delhi,India,IN07
+Chandigarh,India,IN05
+Madhya Pradesh,India,IN35
+Utah,United States of America,US49
+Wyoming,United States of America,US56
+Nevada,United States of America,US32
+Colorado,United States of America,US08
+South Dakota,United States of America,US46
+Nebraska,United States of America,US31
+Kansas,United States of America,US20
+Oklahoma,United States of America,US40
+Iowa,United States of America,US19
+Missouri,United States of America,US29
+Arima,Trinidad and Tobago,TD01
+Khon Kaen,Thailand,TH22
+Sakon Nakhon,Thailand,TH20
+Suphan Buri,Thailand,TH51
+Sing Buri,Thailand,TH33
+Chai Nat,Thailand,TH32
+Ang Thong,Thailand,TH35
+Saraburi,Thailand,TH37
+Nakhon Ratchasima,Thailand,TH27
+Nakhon Nayok,Thailand,TH43
+Pathum Thani,Thailand,TH39
+Uthai Thani,Thailand,TH15
+Kalasin,Thailand,TH23
+Roi Et,Thailand,TH25
+Maha Sarakham,Thailand,TH24
+Nong Bua Lam Phu,Thailand,TH79
+Lop Buri,Thailand,TH34
+Udon Thani,Thailand,TH76
+Phra Nakhon Si Ayutthaya,Thailand,TH36
+Nonthaburi,Thailand,TH38
+Nakhon Pathom,Thailand,TH53
+Kamphaeng Phet,Thailand,TH11
+Lampang,Thailand,TH06
+Sukhothai,Thailand,TH09
+Nakhon Sawan,Thailand,TH16
+Phetchabun,Thailand,TH14
+Phichit,Thailand,TH13
+Chaiyaphum,Thailand,TH26
+Phrae,Thailand,TH07
+Lamphun,Thailand,TH05
+Prachin Buri,Thailand,TH74
+Yasothon,Thailand,TH72
+Ermera,East Timor,TT07
+Aileu,East Timor,TT01
+Tokat,Turkey,TU60
+Sivas,Turkey,TU58
+Çorum,Turkey,TU19
+Amasya,Turkey,TU05
+Morogoro,United Republic of Tanzania,TZ10
+Dodoma,United Republic of Tanzania,TZ03
+Manyara,United Republic of Tanzania,TZ27
+Semnan,Iran,IR25
+Zanjan,Iran,IR36
+Qazvin,Iran,IR38
+Hamah,Syria,SY10
+Preddvor,Slovenia,SIK5
+Šenčur,Slovenia,SIB2
+Cerklje na Gorenjskem,Slovenia,SI12
+Kamnik,Slovenia,SIH6
+Medvode,Slovenia,SI71
+Kranj,Slovenia,SI52
+Škofja Loka,Slovenia,SIB9
+Železniki,Slovenia,SIF1
+Bohinj,Slovenia,SI04
+Radovljica,Slovenia,SIA3
+Šoštanj,Slovenia,SIC7
+Luce,Slovenia,SII9
+Lukovica,Slovenia,SI68
+Laško,Slovenia,SI57
+Ruše,Slovenia,SIL3
+Vodice,Slovenia,SIE3
+Mengeš,Slovenia,SI72
+Vrhnika,Slovenia,SIE5
+Puconci,Slovenia,SI97
+Murska Sobota,Slovenia,SI80
+Brezovica,Slovenia,SI09
+Dobrova-Polhov Gradec,Slovenia,SIG4
+Logatec,Slovenia,SI64
+Destrnik,Slovenia,SI18
+Race-Fram,Slovenia,SI98
+Starše,Slovenia,SIC8
+Velenje,Slovenia,SID7
+Šmartno ob Paki,Slovenia,SIC6
+Mozirje,Slovenia,SI79
+Vitanje,Slovenia,SIE2
+Vojnik,Slovenia,SIN3
+Zrece,Slovenia,SIF3
+Mislinja,Slovenia,SI76
+Zasavska,Slovenia,SIE7
+Gornji Grad,Slovenia,SI30
+Cerknica,Slovenia,SI13
+Borovnica,Slovenia,SI05
+Postojna,Slovenia,SI94
+Pivka,Slovenia,SI91
+Celje,Slovenia,SI11
+Nazarje,Slovenia,SI83
+Domžale,Slovenia,SIG7
+Ivancna Gorica,Slovenia,SI39
+Ljubljana,Slovenia,SI61
+Ig,Slovenia,SI37
+Dol pri Ljubljani,Slovenia,SI22
+Moravce,Slovenia,SI77
+Appenzell Ausserrhoden,Switzerland,SZ02
+Appenzell Innerrhoden,Switzerland,SZ10
+Västmanland,Sweden,SW25
+Jönköping,Sweden,SW08
+Orebro,Sweden,SW15
+Kronoberg,Sweden,SW12
+Para,Suriname,NS15
+Brokopondo,Suriname,NS10
+Gezira,Sudan,SU38
+Khartoum,Sudan,SU29
+North Kordufan,Sudan,SU56
+Lakes,S. Sudan,OD04
+Warrap,S. Sudan,OD08
+Gauteng,South Africa,SF06
+Radece,Slovenia,SI99
+Štore,Slovenia,SIC9
+Slovenske Konjice,Slovenia,SIC4
+Žiri,Slovenia,SIF2
+Cerkno,Slovenia,SI14
+Bled,Slovenia,SI03
+Ajdovščina,Slovenia,SI01
+Divaca,Slovenia,SI19
+Idrija,Slovenia,SI36
+Vipava,Slovenia,SIE1
+Šentjur pri Celju,Slovenia,SIL7
+Šmarje pri Jelšah,Slovenia,SIC5
+Sevnica,Slovenia,SIB6
+Turnišče,Slovenia,SID6
+Radenci,Slovenia,SIA1
+Sveti Jurij,Slovenia,SID1
+Beltinci,Slovenia,SI02
+Odranci,Slovenia,SI86
+Diourbel,Senegal,SG03
+Ar Riyad,Saudi Arabia,SA10
+Al Quassim,Saudi Arabia,SA08
+Ha'il,Saudi Arabia,SA13
+Al Bahah,Saudi Arabia,SA02
+Cluj,Romania,RO13
+Bistrita-Nasaud,Romania,RO06
+Salaj,Romania,RO31
+Dâmbovita,Romania,RO16
+Ilfov,Romania,RO43
+Arges,Romania,RO03
+Gorj,Romania,RO19
+Hunedoara,Romania,RO21
+Vâlcea,Romania,RO39
+Prahova,Romania,RO30
+Covasna,Romania,RO15
+Vrancea,Romania,RO40
+Buzau,Romania,RO11
+Brasov,Romania,RO09
+Sibiu,Romania,RO33
+Mures,Romania,RO27
+Harghita,Romania,RO20
+Neamt,Romania,RO28
+Bacau,Romania,RO04
+Alba,Romania,RO01
+Škofljica,Slovenia,SIC1
+Žalec,Slovenia,SIN5
+Ptuj,Slovenia,SIK7
+Majšperk,Slovenia,SIJ1
+Slovenska Bistrica,Slovenia,SIL8
+Kidricevo,Slovenia,SI45
+Dornava,Slovenia,SI24
+Juršinci,Slovenia,SI42
+Semic,Slovenia,SIB1
+Ribnica,Slovenia,SIL1
+Škocjan,Slovenia,SIB8
+Oppland,Norway,NO11
+Kuala Lumpur,Malaysia,MY14
+Putrajaya,Malaysia,MY17
+Dowa,Malawi,MI07
+Balaka,Malawi,MI26
+Chiradzulu,Malawi,MI03
+Blantyre,Malawi,MI24
+Ntchisi,Malawi,MI20
+Kauno,Lithuania,LH57
+Valverde,Dominican Republic,DR27
+Santiago Rodríguez,Dominican Republic,DR26
+La Vega,Dominican Republic,DR30
+Duarte,Dominican Republic,DR06
+Santiago,Dominican Republic,DR25
+Bahoruco,Dominican Republic,DR02
+San Juan,Dominican Republic,DR23
+Naxçıvan,Azerbaijan,AJ75
+Ağdam,Azerbaijan,AJ03
+Tərtər,Azerbaijan,AJ57
+Goranboy,Azerbaijan,AJ21
+Xocavənd,Azerbaijan,AJ65
+Hajigabul,Azerbaijan,AJ23
+Abşeron,Azerbaijan,AJ01
+Xanlar,Azerbaijan,AJ62
+Kürdəmir,Azerbaijan,AJ27
+Zərdab,Azerbaijan,AJ71
+Sabirabad,Azerbaijan,AJ46
+Shirvan,Azerbaijan,AJ07
+Kamuli,Uganda,UGA4
+Luuka,Uganda,UGG4
+Buyende,Uganda,UGF3
+Jinja,Uganda,UG33
+Apac,Uganda,UG99
+Nakasongola,Uganda,UG73
+Masindi,Uganda,UG50
+Kayunga,Uganda,UG83
+Amolatar,Uganda,UGB7
+Mityana,Uganda,UGD8
+Kiboga,Uganda,UG42
+Mpigi,Uganda,UG89
+Butambala,Uganda,UGF1
+Gomba,Uganda,UGF4
+Wakiso,Uganda,UG96
+Nakaseke,Uganda,UGD9
+Kyankwanzi,Uganda,UGG1
+Kaberamaido,Uganda,UG80
+Dokolo,Uganda,UGC7
+Kyenjojo,Uganda,UG85
+Kamwenge,Uganda,UG81
+Kyegegwa,Uganda,UGG2
+Sembabule,Uganda,UG74
+Kibale,Uganda,UG41
+Mubende,Uganda,UGB4
+Braila,Romania,RO08
+Ialomita,Romania,RO22
+Umm Salal,Qatar,QA09
+Viseu,Portugal,PO22
+Agusan del Sur,Philippines,RP03
+Bukidnon,Philippines,RP12
+Cusco,Peru,PE08
+Ayacucho,Peru,PE05
+Apurímac,Peru,PE03
+Huancavelica,Peru,PE09
+San Martín,Peru,PE22
+Huánuco,Peru,PE10
+Pasco,Peru,PE19
+Junín,Peru,PE12
+San Pedro,Paraguay,PA17
+Caaguazú,Paraguay,PA04
+Cordillera,Paraguay,PA08
+Caazapá,Paraguay,PA05
+Paraguarí,Paraguay,PA15
+Guairá,Paraguay,PA10
+F.C.T.,Pakistan,PK08
+Matagalpa,Nicaragua,NU12
+Boaco,Nicaragua,NU01
+Chontales,Nicaragua,NU04
+Estelí,Nicaragua,NU05
+Granada,Nicaragua,NU06
+Masaya,Nicaragua,NU11
+Flevoland,Netherlands,NL16
+Utrecht,Netherlands,NL09
+Fès - Boulemane,Morocco,MO14
+Tadla - Azilal,Morocco,MO56
+Călărași,Moldova,MD66
+Drochia,Moldova,MD71
+Sîngerei,Moldova,MD85
+Bălţi,Moldova,MD60
+Smiltenes,Latvia,LGD1
+Balvu,Latvia,LG48
+Strencu,Latvia,LGD3
+Beverinas,Latvia,LG50
+Burtnieku,Latvia,LG52
+Kocenu,Latvia,LG81
+Rezeknes,Latvia,LG23
+Vecpiebalgas,Latvia,LGE3
+Raunas,Latvia,LGB1
+Priekulu,Latvia,LGA9
+Pargaujas,Latvia,LGA4
+Krimuldas,Latvia,LG84
+Gulbene,Latvia,LG66
+Rugaju,Latvia,LGB7
+Jaunpiebalgas,Latvia,LG72
+Aglonas,Latvia,LG35
+Riebinu,Latvia,LGB3
+Vilanu,Latvia,LGE8
+Babites,Latvia,LG45
+Garkalnes,Latvia,LG64
+Kekavas,Latvia,LG80
+Marupes,Latvia,LG95
+Olaines,Latvia,LGA2
+Salaspils,Latvia,LGC3
+Stopinu,Latvia,LGD2
+Sejas,Latvia,LGC6
+Malpils,Latvia,LG94
+Siguldas,Latvia,LGC7
+Madona,Latvia,LG93
+Lubanas,Latvia,LG91
+Varaklanu,Latvia,LGE1
+Amatas,Latvia,LG42
+Erglu,Latvia,LG63
+Cesvaines,Latvia,LG55
+Ogre,Latvia,LGA1
+Ropazu,Latvia,LGB5
+Ikskiles,Latvia,LG68
+Baldones,Latvia,LG46
+Keguma,Latvia,LG79
+Iecavas,Latvia,LG67
+Plavinu,Latvia,LGA6
+Kokneses,Latvia,LG82
+Aizkraukles,Latvia,LG36
+Skriveru,Latvia,LGC8
+Lielvardes,Latvia,LG87
+Jaunjelgavas,Latvia,LG71
+Preilu,Latvia,LGA7
+Livanu,Latvia,LG90
+Varkavas,Latvia,LGE2
+Jekabpils,Latvia,LG75
+Krustpils,Latvia,LG85
+Salas,Latvia,LGC1
+Aizputes,Latvia,LG37
+Kuldigas,Latvia,LG86
+Alsungas,Latvia,LG40
+Skrundas,Latvia,LGC9
+Kandavas,Latvia,LG77
+Tukums,Latvia,LGD6
+Dobele,Latvia,LG59
+Jaunpils,Latvia,LG73
+Brocenu,Latvia,LG51
+Ozolnieku,Latvia,LGA3
+Al Farwaniyah,Kuwait,KU07
+Nairobi,Kenya,KE05
+Central,Kenya,KE01
+Ajlun,Jordan,JO20
+Jarash,Jordan,JO22
+Gunma,Japan,JA10
+Nagano,Japan,JA26
+Tochigi,Japan,JA38
+Gifu,Japan,JA09
+Shiga,Japan,JA35
+Saitama,Japan,JA34
+Yamanashi,Japan,JA46
+Nara,Japan,JA28
+Agnéby,Ivory Coast,IV06
+N'zi-Comoé,Ivory Coast,IV27
+Marahoué,Ivory Coast,IV34
+Fromager,Ivory Coast,IV18
+Vallée du Bandama,Ivory Coast,IV20
+Lacs,Ivory Coast,IV56
+Worodougou,Ivory Coast,IV25
+Kildare,Ireland,EI12
+Carlow,Ireland,EI01
+Laoighis,Ireland,EI15
+South Dublin,Ireland,EI39
+Offaly,Ireland,EI23
+Westmeath,Ireland,EI29
+Longford,Ireland,EI18
+Roscommon,Ireland,EI24
+North Tipperary,Ireland,EI38
+South Tipperary,Ireland,EI40
+Waterford,Ireland,EI41
+Limerick,Ireland,EI37
+Comayagua,Honduras,HO04
+Yoro,Honduras,HO18
+Francisco Morazán,Honduras,HO08
+Kissidougou,Guinea,GV17
+Kérouané,Guinea,GV15
+Télimélé,Guinea,GV27
+Lélouma,Guinea,GV35
+Dalaba,Guinea,GV06
+Labé,Guinea,GV34
+Pita,Guinea,GV25
+Kouroussa,Guinea,GV19
+Fria,Guinea,GV11
+Chimaltenango,Guatemala,GT03
+Sacatepéquez,Guatemala,GT16
+Guatemala,Guatemala,GT07
+Jalapa,Guatemala,GT10
+El Progreso,Guatemala,GT05
+Sololá,Guatemala,GT19
+Quezaltenango,Guatemala,GT13
+Baja Verapaz,Guatemala,GT02
+Totonicapán,Guatemala,GT21
+Ashanti,Ghana,GH02
+Eastern,Ghana,GH05
+Hessen,Germany,GM05
+Thüringen,Germany,GM15
+Sachsen-Anhalt,Germany,GM14
+Berlin,Germany,GM16
+Moyen-Ogooué,Gabon,GB03
+Rapla,Estonia,EN13
+Järva,Estonia,EN04
+Anseba,Eritrea,ER01
+Cuscatlán,El Salvador,ES04
+San Salvador,El Salvador,ES10
+Al Qahirah,Egypt,EG11
+Al Jizah,Egypt,EG08
+Al Minya,Egypt,EG10
+Al Fayyum,Egypt,EG04
+Bani Suwayf,Egypt,EG18
+Al Minufiyah,Egypt,EG09
+Al Qalyubiyah,Egypt,EG12
+Al Gharbiyah,Egypt,EG05
+Suhaj,Egypt,EG24
+Qina,Egypt,EG23
+Asyut,Egypt,EG17
+Azuay,Ecuador,EC02
+Cañar,Ecuador,EC04
+Tungurahua,Ecuador,EC19
+Chimborazo,Ecuador,EC06
+Bolivar,Ecuador,EC03
+Imbabura,Ecuador,EC11
+Cotopaxi,Ecuador,EC07
+Los Rios,Ecuador,EC13
+Pichincha,Ecuador,EC18
+Santo Domingo de los Tsáchilas,Ecuador,EC26
+Monseñor Nouel,Dominican Republic,DR31
+Sánchez Ramírez,Dominican Republic,DR21
+Monte Plata,Dominican Republic,DR32
+Bjelovarsko-bilogorska,Croatia,HR01
+Grad Zagreb,Croatia,HR21
+Brodsko-Posavska,Croatia,HR11
+San José,Costa Rica,CS08
+Cartago,Costa Rica,CS02
+Caquetá,Colombia,CO08
+Huila,Colombia,CO16
+Guaviare,Colombia,CO14
+Caldas,Colombia,CO37
+Casanare,Colombia,CO32
+Meta,Colombia,CO19
+Bogota,Colombia,CO33
+Santander,Colombia,CO26
+Tolima,Colombia,CO28
+Quindío,Colombia,CO23
+Risaralda,Colombia,CO24
+Beijing,China,CH22
+Kasaï-Oriental,Democratic Republic of the Congo,CG04
+Sichuan,China,CH32
+Chongqing,China,CH33
+Guizhou,China,CH18
+Hunan,China,CH11
+Ningxia,China,CH21
+Shaanxi,China,CH26
+Shanxi,China,CH24
+Jiangxi,China,CH03
+Henan,China,CH09
+Hubei,China,CH12
+Anhui,China,CH01
+Barh El Gazel,Chad,CD22
+Tandjilé,Chad,CD14
+Logone Occidental,Chad,CD08
+Guéra,Chad,CD05
+Batha,Chad,CD01
+Ouest,Cameroon,CM08
+Centre,Cameroon,CM11
+Kâmpóng Chhnang,Cambodia,CB03
+Kâmpóng Thum,Cambodia,CB05
+Kâmpóng Spœ,Cambodia,CB04
+Phnom Penh,Cambodia,CB22
+Goiás,Brazil,BR29
+Distrito Federal,Brazil,BR07
+Minas Gerais,Brazil,BR15
+Tocantins,Brazil,BR31
+Kweneng,Botswana,BC06
+Cochabamba,Bolivia,BL02
+Chirang,Bhutan,BT07
+Wangdi Phodrang,Bhutan,BT22
+Daga,Bhutan,BT08
+Punakha,Bhutan,BT15
+Mongar,Bhutan,BT12
+Tongsa,Bhutan,BT21
+Pemagatsel,Bhutan,BT14
+Minsk,Belarus,BO05
+Saint George,Barbados,BB03
+Saint Thomas,Barbados,BB11
+Saatlı,Azerbaijan,AJ45
+Bərdə,Azerbaijan,AJ11
+Şəmkir,Azerbaijan,AJ51
+Ağsu,Azerbaijan,AJ06
+Nana-Grébizi,Central African Republic,CT15
+Şamaxı,Azerbaijan,AJ50
+Quba,Azerbaijan,AJ42
+Ucar,Azerbaijan,AJ59
+Qobustan,Azerbaijan,AJ41
+İsmayıllı,Azerbaijan,AJ25
+Gəncə,Azerbaijan,AJ20
+Mingəçevir,Azerbaijan,AJ33
+Göyçay,Azerbaijan,AJ22
+Ağdaş,Azerbaijan,AJ04
+Ağcabədi,Azerbaijan,AJ02
+Australian Capital Territory,Australia,AS01
+Wien,Austria,AU09
+Kotayk,Armenia,AM05
+Erevan,Armenia,AM11
+Santa Fe,Argentina,AR21
+Tucumán,Argentina,AR24
+Santiago del Estero,Argentina,AR22
+San Luis,Argentina,AR19
+La Pampa,Argentina,AR11
+Córdoba,Argentina,AR05
+Bié,Angola,AO02
+Cuanza Norte,Angola,AO05
+Huíla,Angola,AO09
+Huambo,Angola,AO08
+Sétif,Algeria,AG12
+Bordj Bou Arréridj,Algeria,AG39
+Bouira,Algeria,AG21
+Blida,Algeria,AG20
+Tissemsilt,Algeria,AG56
+Aïn Defla,Algeria,AG35
+Relizane,Algeria,AG51
+El Bayadh,Algeria,AG42
+Saïda,Algeria,AG10
+Sidi Bel Abbès,Algeria,AG30
+Mascara,Algeria,AG26
+Ghardaïa,Algeria,AG45
+Laghouat,Algeria,AG25
+Médéa,Algeria,AG06
+M'Sila,Algeria,AG27
+Batna,Algeria,AG03
+Khenchela,Algeria,AG47
+Guelma,Algeria,AG23
+Constantine,Algeria,AG04
+Mila,Algeria,AG48
+Oum el Bouaghi,Algeria,AG29
+Biskra,Algeria,AG19
+Djelfa,Algeria,AG22
+Berat,Albania,AL40
+Ghazni,Afghanistan,AF08
+Kabul,Afghanistan,AF13
+Laghman,Afghanistan,AF35
+Logar,Afghanistan,AF17
+Kapisa,Afghanistan,AF14
+Wardak,Afghanistan,AF27
+Bamyan,Afghanistan,AF05
+Sari Pul,Afghanistan,AF33
+Ghor,Afghanistan,AF09
+Baghlan,Afghanistan,AF03
+Samangan,Afghanistan,AF32
+Caerphilly,United Kingdom,UKX4
+"Rhondda, Cynon, Taff",United Kingdom,UKY9
+Blaenau Gwent,United Kingdom,UKX2
+Oyam,Uganda,UGE2
+Kole,Uganda,UGF8
+Pader,Uganda,UG92
+Ibanda,Uganda,UGC8
+Gulu,Uganda,UGA2
+Kiryandongo,Uganda,UGF7
+Iganga,Uganda,UGA3
+Lwengo,Uganda,UGG5
+Bukomansimbi,Uganda,UGE8
+Kalungu,Uganda,UGF5
+Kampala,Uganda,UG37
+Kaliro,Uganda,UGD2
+Agago,Uganda,UGE3
+Kotido,Uganda,UGA7
+Otuke,Uganda,UGH3
+Alebtong,Uganda,UGE4
+Amuria,Uganda,UGB8
+Katakwi,Uganda,UGA6
+Serere,Uganda,UGH5
+Soroti,Uganda,UG95
+Pallisa,Uganda,UGB5
+Lyantonde,Uganda,UGD5
+Masaka,Uganda,UG71
+Torfaen,United Kingdom,UKZ2
+Merthyr Tydfil,United Kingdom,UKY3
+North Lanarkshire,United Kingdom,UKV8
+Glasgow,United Kingdom,UKV2
+East Renfrewshire,United Kingdom,UKU7
+East Ayrshire,United Kingdom,UKU4
+South Lanarkshire,United Kingdom,UKW5
+Magherafelt,United Kingdom,UK71
+Omagh,United Kingdom,UK76
+Mid Ulster,United Kingdom,UK62
+Craigavon,United Kingdom,UK63
+Banbridge,United Kingdom,UK57
+Antrim,United Kingdom,UK52
+Lisburn,United Kingdom,UK69
+Ballymoney,United Kingdom,UK56
+Ballymena,United Kingdom,UK55
+Castlereagh,United Kingdom,UK60
+Stockton-on-Tees,United Kingdom,UKN3
+Darlington,United Kingdom,UKD1
+Middlesbrough,United Kingdom,UKI5
+Gateshead,United Kingdom,UKE5
+Newcastle upon Tyne,United Kingdom,UKI7
+York,United Kingdom,UKQ5
+Merseyside,United Kingdom,UK28
+Hertfordshire,United Kingdom,UKF8
+Havering,United Kingdom,UK15
+Cambridgeshire,United Kingdom,UKC3
+Milton Keynes,United Kingdom,UKI6
+Buckinghamshire,United Kingdom,UKB9
+Luton,United Kingdom,UKI1
+Central Bedfordshire,United Kingdom,UKZ6
+Bedford,United Kingdom,UKZ5
+Rutland,United Kingdom,UKL4
+Nottinghamshire,United Kingdom,UKJ9
+Northamptonshire,United Kingdom,UKJ1
+Peterborough,United Kingdom,UKK3
+Doncaster,United Kingdom,UKD5
+Leicestershire,United Kingdom,UKH5
+Cheshire East,United Kingdom,UKZ7
+Derbyshire,United Kingdom,UKD3
+Rotherham,United Kingdom,UKL3
+Sheffield,United Kingdom,UKL9
+Stoke-on-Trent,United Kingdom,UKN4
+Telford and Wrekin,United Kingdom,UKO2
+Staffordshire,United Kingdom,UKM9
+Worcestershire,United Kingdom,UKQ4
+Warwickshire,United Kingdom,UKP3
+Oxfordshire,United Kingdom,UKK2
+Wigan,United Kingdom,UKP7
+Stockport,United Kingdom,UKN2
+Warrington,United Kingdom,UKP2
+West Berkshire,United Kingdom,UKP4
+Wokingham,United Kingdom,UKQ2
+Bracknell Forest,United Kingdom,UKB3
+Royal Borough of Windsor and Maidenhead,United Kingdom,UK03
+Slough,United Kingdom,UKM1
+Reading,United Kingdom,UKK7
+Surrey,United Kingdom,UKN7
+Blackburn with Darwen,United Kingdom,UKA8
+Swindon,United Kingdom,UKN9
+Bath and North East Somerset,United Kingdom,UKA4
+Wiltshire,United Kingdom,UKP8
+Calderdale,United Kingdom,UKC2
+Kirklees,United Kingdom,UKG8
+Nottingham,United Kingdom,UKJ8
+Leicester,United Kingdom,UKH4
+Derby,United Kingdom,UKD2
+Mukono,Uganda,UG90
+Buikwe,Uganda,UGE7
+Nakapiripirit,Uganda,UG91
+Kween,Uganda,UGF9
+Buhweju,Uganda,UGE6
+Sheema,Uganda,UGH6
+Mitooma,Uganda,UGG6
+Bushenyi,Uganda,UG29
+Bulambuli,Uganda,UGE9
+Sironko,Uganda,UG94
+Bugiri,Uganda,UG66
+Nwoya,Uganda,UGH2
+Mbale,Uganda,UGB1
+Budaka,Uganda,UGC1
+Butaleja,Uganda,UGC6
+Kibuku,Uganda,UGF6
+Napak,Uganda,UGG8
+Kumi,Uganda,UG46
+Ngora,Uganda,UGG9
+Bukedea,Uganda,UGC3
+Namutumba,Uganda,UGE1
+Kütahya,Turkey,TU43
+Konya,Turkey,TU71
+Karaman,Turkey,TU78
+Nigde,Turkey,TU73
+Kayseri,Turkey,TU38
+Isparta,Turkey,TU33
+Manisa,Turkey,TU45
+Denizli,Turkey,TU20
+Burdur,Turkey,TU15
+Aksaray,Turkey,TU75
+Nevsehir,Turkey,TU50
+Yozgat,Turkey,TU66
+Kirsehir,Turkey,TU40
+Usak,Turkey,TU64
+Erzincan,Turkey,TU24
+Tunceli,Turkey,TU62
+Afyonkarahisar,Turkey,TU03
+Kinkkale,Turkey,TU79
+K. Maras,Turkey,TU46
+Mus,Turkey,TU49
+Erzurum,Turkey,TU25
+Malatya,Turkey,TU44
+Elazig,Turkey,TU23
+Bitlis,Turkey,TU13
+Bingöl,Turkey,TU12
+Abia,Nigeria,NI45
+Ebonyi,Nigeria,NI53
+Anambra,Nigeria,NI25
+Edo,Nigeria,NI37
+Bauchi,Nigeria,NI46
+Plateau,Nigeria,NI49
+Nassarawa,Nigeria,NI56
+Gombe,Nigeria,NI55
+Enugu,Nigeria,NI47
+Kogi,Nigeria,NI41
+Osun,Nigeria,NI42
+Imo,Nigeria,NI28
+Osmaniye,Turkey,TU91
+Adiyaman,Turkey,TU02
+Diyarbakir,Turkey,TU21
+Batman,Turkey,TU76
+Siirt,Turkey,TU74
+Bayburt,Turkey,TU77
+Gümüshane,Turkey,TU69
+Singida,United Republic of Tanzania,TZ16
+Tabora,United Republic of Tanzania,TZ17
+Iringa,United Republic of Tanzania,TZ04
+Mwanza,United Republic of Tanzania,TZ12
+Simiyu,United Republic of Tanzania,TZ31
+Geita,United Republic of Tanzania,TZ28
+Shinyanga,United Republic of Tanzania,TZ15
+Ratnapura,Sri Lanka,CE20
+Mŏṇarāgala,Sri Lanka,CE16
+Kægalla,Sri Lanka,CE11
+Badulla,Sri Lanka,CE03
+Mātale,Sri Lanka,CE14
+Pŏḷŏnnaruva,Sri Lanka,CE18
+Kuruṇægala,Sri Lanka,CE12
+Anurādhapura,Sri Lanka,CE02
+Nuvara Ĕliya,Sri Lanka,CE17
+Vavuniyāva,Sri Lanka,CE28
+Mahanuvara,Sri Lanka,CE10
+Bay,Somalia,SO04
+Bashkortostan,Russia,RS08
+Sverdlovsk,Russia,RS71
+Khanty-Mansiy,Russia,RS32
+Lipetsk,Russia,RS43
+Tambov,Russia,RS72
+Tomsk,Russia,RS75
+Tatarstan,Russia,RS73
+Ul'yanovsk,Russia,RS81
+Penza,Russia,RS57
+Kemerovo,Russia,RS29
+Orel,Russia,RS56
+Irkutsk,Russia,RS20
+Khakass,Russia,RS31
+Mordovia,Russia,RS46
+Kaluga,Russia,RS25
+Kostroma,Russia,RS37
+Yaroslavl',Russia,RS88
+Vladimir,Russia,RS83
+Ryazan',Russia,RS62
+Ivanovo,Russia,RS21
+Nizhegorod,Russia,RS51
+Tula,Russia,RS76
+Seoul,South Korea,KS11
+Daejeon,South Korea,KS19
+Sejong,South Korea,KS22
+North Chungcheong,South Korea,KS05
+Chuvash,Russia,RS16
+Vologda,Russia,RS85
+Novgorod,Russia,RS52
+Tver',Russia,RS77
+Moskva,Russia,RS47
+Mariy-El,Russia,RS45
+Kirov,Russia,RS33
+Udmurt,Russia,RS80
+Komi,Russia,RS34
+Perm',Russia,RS90
+Samara,Russia,RS65
+Stavropol',Russia,RS70
+Adygey,Russia,RS01
+Masovian,Poland,PL78
+Łódź,Poland,PL74
+Kuyavian-Pomeranian,Poland,PL73
+Greater Poland,Poland,PL86
+Świętokrzyskie,Poland,PL84
+Nueva Ecija,Philippines,RP47
+Laguna,Philippines,RP33
+Rizal,Philippines,RP53
+Quirino,Philippines,RP68
+Nueva Vizcaya,Philippines,RP48
+Ifugao,Philippines,RP27
+Mountain Province,Philippines,RP44
+Tarlac,Philippines,RP63
+Apayao,Philippines,RPH6
+Kalinga,Philippines,RPJ7
+Abra,Philippines,RP01
+Ekiti,Nigeria,NI54
+Kaduna,Nigeria,NI23
+Kano,Nigeria,NI29
+Federal Capital Territory,Nigeria,NI11
+P'yŏngyang,North Korea,KN12
+Khomas,Namibia,WA21
+Oshana,Namibia,WA37
+Oshikoto,Namibia,WA38
+Darhan-Uul,Mongolia,MG23
+Töv,Mongolia,MG18
+Arhangay,Mongolia,MG01
+Orhon,Mongolia,MG25
+Dundgovi,Mongolia,MG08
+Övörhangay,Mongolia,MG15
+Govĭ-Sümber,Mongolia,MG24
+México,Mexico,MX15
+Puebla,Mexico,MX21
+Morelos,Mexico,MX17
+Querétaro,Mexico,MX22
+Hidalgo,Mexico,MX13
+Guanajuato,Mexico,MX11
+San Luis Potosí,Mexico,MX24
+Zacatecas,Mexico,MX32
+Aguascalientes,Mexico,MX01
+Durango,Mexico,MX10
+Ulaanbaatar,Mongolia,MG20
+Tlaxcala,Mexico,MX29
+Distrito Federal,Mexico,MX09
+Tagant,Mauritania,MR09
+Želino,Macedonia,MKC3
+Brvenica,Macedonia,MK12
+Brod,Macedonia,MK63
+Oslomej,Macedonia,MK77
+Sopište,Macedonia,MK92
+Karpoš,Macedonia,MK41
+Butel,Macedonia,MK13
+Čair,Macedonia,MKA3
+Zajas,Macedonia,MKC1
+Dolneni,Macedonia,MK28
+Krivogaštani,Macedonia,MK53
+Mogila,Macedonia,MK67
+Čaška,Macedonia,MK15
+Rosoman,Macedonia,MK87
+Negotino,Macedonia,MK69
+Drugovo,Macedonia,MK30
+Gazi Baba,Macedonia,MK32
+Kruševo,Macedonia,MK54
+Demir Hisar,Macedonia,MK24
+Studeničani,Macedonia,MKA2
+Probištip,Macedonia,MK83
+Zelenikovo,Macedonia,MKC2
+Kičevo,Macedonia,MK43
+Plasnica,Macedonia,MK80
+Vraneštica,Macedonia,MKB6
+Skopje,Macedonia,MK79
+Sveti Nikole,Macedonia,MKA4
+Kratovo,Macedonia,MK51
+Ilinden,Macedonia,MK36
+Karbinci,Macedonia,MK40
+Štip,Macedonia,MK98
+Kočani,Macedonia,MK46
+Veles,Macedonia,MKB1
+Demir Kapija,Macedonia,MK25
+Vinica,Macedonia,MKB4
+Bosilovo,Macedonia,MK11
+Radoviš,Macedonia,MK84
+Vasilevo,Macedonia,MKA9
+Al Jifarah,Libya,LY81
+Mizdah,Libya,LY57
+Al Jufrah,Libya,LY64
+Sabha,Libya,LY75
+Aqmola,Kazakhstan,KZ03
+Qaraghandy,Kazakhstan,KZ12
+Baghdad,Iraq,IZ07
+Babil,Iraq,IZ06
+Al-Qādisiyyah,Iraq,IZ04
+Dhi-Qar,Iraq,IZ09
+Karbala',Iraq,IZ12
+Markazi,Iran,IR34
+Esfahan,Iran,IR28
+Chahar Mahall and Bakhtiari,Iran,IR03
+Kohgiluyeh and Buyer Ahmad,Iran,IR05
+Fars,Iran,IR07
+Kerman,Iran,IR29
+Hamadan,Iran,IR09
+Lorestan,Iran,IR23
+Yazd,Iran,IR40
+Qom,Iran,IR39
+Chhattisgarh,India,IN37
+Haryana,India,IN10
+Telangana,India,IN40
+Jász-Nagykun-Szolnok,Hungary,HU20
+Fejér,Hungary,HU08
+Veszprém,Hungary,HU23
+Tolna,Hungary,HU21
+Szolnok,Hungary,HU36
+Budapest,Hungary,HU05
+Érd,Hungary,HU43
+Heves,Hungary,HU11
+Eger,Hungary,HU28
+Miskolc,Hungary,HU13
+Hódmezôvásárhely,Hungary,HU29
+Dunaújváros,Hungary,HU27
+Kecskemét,Hungary,HU31
+Tatabánya,Hungary,HU38
+Tbilisi,Georgia,GG51
+Imereti,Georgia,GG66
+Dire Dawa,Ethiopia,ET48
+Harari People,Ethiopia,ET50
+Gitega,Burundi,BY13
+Muramvya,Burundi,BY22
+Mwaro,Burundi,BY23
+Karuzi,Burundi,BY14
+Sanguié,Burkina Faso,UV36
+Tuy,Burkina Faso,UV74
+Kouritenga,Burkina Faso,UV28
+Ganzourgou,Burkina Faso,UV50
+Zoundwéogo,Burkina Faso,UV44
+Boulkiemdé,Burkina Faso,UV19
+Oubritenga,Burkina Faso,UV68
+Bazéga,Burkina Faso,UV47
+Namentenga,Burkina Faso,UV64
+Sanmatenga,Burkina Faso,UV70
+Magway,Myanmar,BM15
+Mandalay,Myanmar,BM08
+Plovdiv,Bulgaria,BU51
+Stara Zagora,Bulgaria,BU59
+Sliven,Bulgaria,BU56
+Shumen,Bulgaria,BU54
+Razgrad,Bulgaria,BU52
+Targovishte,Bulgaria,BU60
+Gabrovo,Bulgaria,BU41
+Pazardzhik,Bulgaria,BU48
+Lovech,Bulgaria,BU46
+Grad Sofiya,Bulgaria,BU42
+Amanat Al Asimah,Yemen,YM26
+Wisconsin,United States of America,US55
+Illinois,United States of America,US17
+Kentucky,United States of America,US21
+Arkansas,United States of America,US05
+Tennessee,United States of America,US47
+West Virginia,United States of America,US54
+Indiana,United States of America,US18
+Vysočina,Czech Republic,EZ80
+City of Minsk,Belarus,BO04
+Kiev City,Ukraine,UP12
+Almaty City,Kazakhstan,KZ02
+Astana,Kazakhstan,KZ05
+Damascus,Syria,SY13
+Bucharest,Romania,RO10
+Rezekne,Latvia,LGB2
+Niamey,Niger,NG08
+Bamako,Mali,ML01
+Andorra la Vella,Andorra,AN07
+Gyôr,Hungary,HU25
+Szombathely,Hungary,HU37
+Zalaegerszeg,Hungary,HU40
+Nagykanizsa,Hungary,HU32
+Veszprém,Hungary,HU39
+Kaposvár,Hungary,HU30
+Pécs,Hungary,HU15
+Szekszárd,Hungary,HU42
+Székesfehérvár,Hungary,HU35
+Békéscsaba,Hungary,HU26
+Debrecen,Hungary,HU07
+Nyíregyháza,Hungary,HU33
+Buada,Nauru,NR07
+São Salvador do Mundo,Cape Verde,CV26
+São Lourenço dos Órgãos,Cape Verde,CV25
+Port Louis,Mauritius,MP18
+Dushanbe,Tajikistan,TI04
+Luxor,Egypt,EG28
+Naftalan,Azerbaijan,AJ34
+Şəki,Azerbaijan,AJ48
+Leeds,United Kingdom,UKH3
+Bradford,United Kingdom,UKB4
+Wakefield,United Kingdom,UKO7
+Barnsley,United Kingdom,UKA3
+Salford,United Kingdom,UKL5
+Bolton,United Kingdom,UKB1
+Trafford,United Kingdom,UKO6
+Manchester,United Kingdom,UKI2
+Oldham,United Kingdom,UKK1
+Rochdale,United Kingdom,UKL2
+Tameside,United Kingdom,UKO1
+Bury,United Kingdom,UKC1
+Solihull,United Kingdom,UKM2
+Coventry,United Kingdom,UKC7
+Birmingham,United Kingdom,UKA7
+Sandwell,United Kingdom,UKL7
+Dudley,United Kingdom,UKD7
+Walsall,United Kingdom,UKO8
+Wolverhampton,United Kingdom,UKQ3
+Durbes,Latvia,LG61
+Incukalna,Latvia,LG70
+Ādaži,Latvia,LG34
+Valmiera,Latvia,LGD9
+Cesu,Latvia,LG54
+Ligatnes,Latvia,LG88
+Jekabpils,Latvia,LG74
+Madrid,Spain,SP87
+San Ġwann,Malta,MT48
+Santa Venera,Malta,MT53
+Santa Luċija,Malta,MT51
